@@ -1,0 +1,124 @@
+// MAXIMUS 05.06.2019: file created by script. For ease of later comparison please keep its structure. 
+{=====| FreePlay.c |=====}
+Julian{Джулиан}
+McAllister{МакАлистер}
+
+{=====| StartStoryline.c |=====}
+Robert{Роберт}
+Fletcher{Флэтчер}
+Edward{Эдвард}
+Pellew{Пеллью}
+Elbaron{Эльбарон}
+Caron{Кэрон}
+Taras{Тарас}
+Bulba{Бульба}
+Cardinal{Кардинал}
+Richelieu{Ришелье}
+Mazarin{Мазарини}
+Teague{Тиг}
+Sparrow{Воробей}
+Franзois{Франсуа}
+de Hadoque{Де Хадоке}
+Koleniko{Коленико}
+Ragetti{Раджетти}
+Mother{Мать}
+Bootstrap Bill{Прихлоп Билл}
+Mateo{Матео}
+Black Caesar{Чёрный Цезарь}
+Raoul{Рауль}
+Dupont{Дюпон}
+Askay{Аскай}
+Pusasn{Пусасн}
+Lian{Лиан}
+Park{Парк}
+Tai{Тай}
+Huang{Хуанг}
+Twigg{Твигг}
+Bo'sun{Боцман}
+Pintel{Пинтел}
+Ian{Иан}
+Mercer{Мерсер}
+Bligh{Блай}
+Uncle{Дядя}
+Gules{Гюлес}
+
+{=====| quests_reaction.c |=====}
+Bartolomeu{Бартоломью}
+Portugues{Португалец}
+Guillaume{Гилм}
+Auger{Уга}
+
+{=====| both_reaction.c |=====}
+Weatherby{Уэзерби}
+Swann{Суонн}
+Christopher{Кристофер}
+Silehard{Сайлхард}
+
+{=====| Officers.c |=====}
+William{Уильям}
+Sullivan{Салливан}
+David{Дэвид}
+O'Hara{О'Хара}
+Brian{Брайан}
+Darcy{Дарси}
+Killian{Киллиан}
+Kildare{Килдар}
+Emily{Эмили}
+Butler{Батлер}
+Uriah{Урия}
+O'Bannon{О'Беннон}
+Angus{Ангус}
+Calhoun{Кэлхаун}
+Bush{Буш}
+Dark Captain{Мрачный Капитан}
+Dark Cannoneer{Мрачный Канонир}
+
+{=====| TempQuest.c |=====}
+Bart{Барт}
+Renault{Рено}
+Enrique{Энрике}
+Padilla{Падилья}
+Celestino{Целестино}
+Villalobos{Виллалобос}
+Crewmember{Член команды}
+Spanish{Испанский}
+Commander{Командующий}
+Spanish Commander{Испанский Командир}
+Padre{Падре}
+Gerardo{Жерардо}
+Soldier{Солдат}
+Barbara{Барбара}
+Wellesley{Уэлсли}
+Matthews{Мэтьюс}
+Styles{Стайлс}
+Perrin{Перрин}
+Oldroyd{Олдройд}
+Marsh{Марш}
+Keene{Кин}
+Fernando{Фернандо}
+Suarez{Суарез}
+Elvira{Эльвира}
+Carranza{Карранса}
+Alonso{Алонсо}
+Madero{Мадеро}
+Arnaldo{Арнальдо}
+Chaparro{Чапарро}
+
+{=====| TempQuestEnemy.c |=====}
+Prison{Арестант}
+Guard{Стражник}
+Prison Guard{Тюремный Стражник}
+Arnold{Арнольд}
+McGill{МакГилл}
+Smuggler{Контрабандист}
+Acre{Акр}
+Jourdain{Журден}
+Anjou{Анжу}
+Edam{Эдам}
+De Cow{Де Коу}
+Abel{Абель}
+Barco{Барко}
+Renouart{Ренуарт}
+Larrouse{Лярус}
+
+{=====| 63 characters |=====}
