@@ -196,7 +196,7 @@ pardon{приказ о помиловании}
 document{документ}
 ALARM!  AN AMBUSH!!!{ТРЕВОГА! ЗАСАДА!!!}
 Gamlet{Разговаривать с трупами своих врагов?! Ваше имя не Гамлет, случайно?}
-NoItems{С этого трупа брать нечего}
+NoItems{С этого трупа брать нечего!}
 Captain, the crew is envious of the amount of money we have on board and wants to sign articles{Капитан, команда завидует вашему количеству денег, и хочет подписать договор с регулярным жалованием}
 Captain, we have only{Капитан, через}
 days worth of rum left!{дней у нас закончится ром!}
