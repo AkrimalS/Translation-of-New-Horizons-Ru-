@@ -694,7 +694,8 @@ Your spade hits a stone and breaks..{Ваша лопата ударяется о камень и ломается..
 You dig up a treasurechest{Вы выкопали сундук с сокровищами...}
 An  Akkelani witchdoctor. Mummified.. but spitting VENOM !{Аккеланский знахарь. Мумифицирован... но плюётся ЯДОМ!}
 Looks like someone has been digging here..{Похоже, кто-то уже копал здесь...}
-Do you want to dig as well? With your SWORD{Вы тоже хотите копать? Своим клинком}
+Do you want to dig as well? With your SWORD{Вы тоже хотите копать? С помощью своего клинка}
+Do you want to dig as well? With your{Вы тоже хотите копать? С помощью предмета }
 TAVERNBRAWL{ДРАКА В ТАВЕРНЕ}
 AMBUSH{ЗАСАДА}
 MILITARY RAID{ВОЕННЫЙ НАЛЕТ}
