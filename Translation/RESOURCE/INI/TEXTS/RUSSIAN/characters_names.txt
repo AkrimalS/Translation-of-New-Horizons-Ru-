@@ -844,7 +844,7 @@ Bewighte{Бевайт}
 Peutherer{Пьютерер}
 Yvonne{Ивон}
 Dale{Дэйл}
-Matthew{Мэтью}
+Matthew{Мэттью}
 Hoskins{Хоскинс}
 Vallentain{Валентайн}
 Belt{Белт}
@@ -1133,7 +1133,6 @@ Caspers{Каспер}
 Owen{Оуэн}
 Tripper{Триппер}
 Dempster{Демпстер}
-Rafael{Рафаэль}
 Pinto{Пинто}
 Hugo{Хуго}
 Aguayo{Агуайо}
@@ -1380,6 +1379,5 @@ Eccleston{Экклстон}
 Boulton{Бултон}
 Carib{Кариб}
 Carib Warrior{Карибский Воин}
-Shore Indian{Береговой Индеец}
 Laurens-Jan{Лоуренс-Ян}
 Revenboer{Ревенбур}

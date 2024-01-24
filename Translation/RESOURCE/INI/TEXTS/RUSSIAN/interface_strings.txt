@@ -273,12 +273,13 @@ from your party in berthing duties.{от вашей добычи в качестве портового налога.
 You pay{Вы выплачиваете сумму}
 to the crew and officers you have{золотых монет команде и офицерам,}
 on shore leave at{оставленным в порту}
-FAILED{ПРОВАЛЕНО}
+FAILED{НЕУДАЧНО}
 You haven't the file{Нет файла}
 You can't save while carrying a holy relic! Give it to a monk{Вы не можете сохраняться, пока у Вас в руках Священная Реликвия. Сначала доставьте её монаху.}
 You can't save while carrying a holy relic in this old abbey! Give it to a monk{Вы не можете сохраняться, неся Священную Реликвию в этом старом аббатстве! Доставьте её монаху.}
 You can't save or load until{Вы не можете сохранить игру, пока}
 leaves.{не покинет Вас.}
+You can't save without an active Profile{Вы не можете сохранить игру без активного профиля}
 NewSave{Новое Сохранение}
 God mode{Режим Бога}
 Selected character is{Выбранный персонаж}
@@ -1296,10 +1297,10 @@ Transfer takes roughly an hour{Погрузка займёт приблизительно один час}
 You get your blade back three days later.{Вы получите свой клинок через три дня.}
 You get your blade back two days later.{Вы получите свой клинок через два дня.}
 
-No Balls to Load{На корабле нет ядер}
-No Grapes to Load{На корабле нет картечи}
-No Chains to Load{На корабле нет книппелей}
-No Bombs to Load{На корабле нет бомб}
+No Balls to Load{На корабле нет ядер!}
+No Grapes to Load{На корабле нет картечи!}
+No Chains to Load{На корабле нет книппелей!}
+No Bombs to Load{На корабле нет бомб!}
 
 There's a cave entrance in the Cliff!{Под утёсом виднеется вход в пещеру!}
 NoGambleMoney{Эй! У тебя нет денег?! Возвращайся, когда хоть немного разбогатеешь.}
@@ -1496,23 +1497,23 @@ I am delighted to have the opportunity to be here with you.  Might you indulge a
 You are as radiant as a summer's sunset out at sea!  May I become better acquainted with you?{Ты сияешь, как летний закат в море! Могу я познакомиться с вами поближе?}
 This lowly seaman is at a loss for words.  Speak, I pray, that I might know you better!{Этот скромный моряк, просто нет слов. Говорите, я молюсь, чтобы смог узнать тебя получше!}
 I would be honored and delighted to share a few moments of time with you, dear lady!{Для меня было бы честью и удовольствием разделить с вами несколько минут времени, дорогая леди!}
-I must leave with the tide, dear one...  But until then, might we share some companionable moments?{Я должен уйти с приливом, дорогая...  Но до тех пор, могли бы мы насладиться моментом?}
-The sea calls, and I must build a future.  Until the next tide, would you indulge a weary sailor?{Море зовет, и я должен строить свое будущее. До следующего прилива, не могли бы вы побаловать усталого моряка?}
+I must leave with the tide, dear one...  But until then, might we share some companionable moments?{Мне нужно отчалить с приливом... Но до тех пор, могли бы мы насладиться моментом и поговорить?}
+The sea calls, and I must build a future.  Until the next tide, would you indulge a weary sailor?{Море зовет, и мне нужно строить своё будущее. До следующего прилива, не могли бы вы уделить время на разговор?}
 My dear, I'm just a master and commander.  Tell me about yourself, everything, I'd love to know!{Моя дорогая, я всего лишь хозяин и командир. Расскажи мне о себе, всё, что я хотел бы знать!}
 There are any wondrous things at sea, from mighty ships to flying fish. But none so lovely as your smile!{В море есть много чудес, от могучих кораблей до летучей рыбы. Но ничто так не прекрастно, как твоя улыбка!}
 I hesitate to be so bold, but I am lost without you.  Would you complete me by consenting to be my bride?{Я смущаюсь быть настолько смелым, но я потерян без вас. Вы согласны стать моей невестой?}
 I used to think that I was happy at sea, but I would be much happier knowing that you waited at my home port.  Would you be my wife?{Раньше я думал, что был счастлив в море, но я был бы гораздо счастливее, зная, что ты ждешь, меня дома в порту. Хотите быть моей женой?}
 I...  I'm at a loss for words... Ha'hmmm...  I have this ring here, you see, and I...  Would you marry me?{Я... Я не нахожу слов... Ха... Хм... У меня есть это кольцо, видите, и я... Ты выйдешь за меня замуж?}
 Dear lady, I have trod decks riddled with shot without the depth of fear I feel now.  Please ease my soul and tell me that you'll marry me!{Дорогая леди, я прошел через многое... Пожалуйста, облегчи мою душу и скажи мне, что ты выйдешь за меня замуж!}
-I would very much like to spend a few moments with the gentleman's company, if he is willing.{Я бы очень хотела провести несколько минут в обществе этого джентльмена, если он не против.}
-My lord, I must admit, you do not fail to impress. Would you care to join me for some conversation?{Милорд, должна признать, вы производите впечатление. Не могли бы вы присоединиться ко мне для разговора?}
+I would very much like to spend a few moments with the gentleman's company, if he is willing.{Я хочу провести несколько минут в вашем обществе, если вы не против.}
+My lord, I must admit, you do not fail to impress. Would you care to join me for some conversation?{Милорд, должна признать, вы производите впечатление. Не могли бы вы уделить время на разговор?}
 You are more thrilling than the fiercest storm of the seven seas!  May I become better acquainted with you?{Ты волнуешь больше, чем самый свирепый шторм семи морей! Могу ли я познакомиться с вами поближе?}
-I am enchanted by your grace and eloquence. Speak, I pray, that I might know you better!{Я очарован вашим изяществом и красноречием. Говори, молю, чтобы я мог узнать тебя лучше!}
+I am enchanted by your grace and eloquence. Speak, I pray, that I might know you better!{Вы меня очаровали изяществом и красноречием. Расскажите что-нибудь о себе!}
 I would be honoured and delighted to share a few moments of time with you, my lord.{Для меня было бы честью и удовольствием разделить с вами несколько минут времени, милорд.}
-My dear, I have mastered the waves and commanded the winds, but you are the one puzzle I cannot solve! Tell me more!{Дорогая моя, я покорил волны и повелевал ветрами, но ты единственная загадка, которую я не могу разгадать! Расскажи мне больше о себе!}
+My dear, I have mastered the waves and commanded the winds, but you are the one puzzle I cannot solve! Tell me more!{Дорогой мой, я покоряла волны и повелевала ветрами, но ты единственная загадка, которую я не смогла разгадать! Расскажи мне больше о себе!}
 I hesitate to be so bold, but I am lost without you.  Would you complete me by consenting to be my husband?{Я смущаюсь быть настолько смелой, но я потеряна без вас. Вы согласны стать моим мужем?}
-I used to think that nothing could make me happier than the seas, but you proved otherwise, my lord. Would you be my husband?{Раньше я думала, что ничто не может сделать меня счастливее, чем моря, но вы доказали обратное, милорд. Ты бы стал моим мужем?}
-I...  I do not know how to ask you this, but... Words elude me, I...  Would you...marry me?{Я... Я не знаю, как спросить тебя об этом... Я не нахожу слов... Вы согласны стать моим мужем?}
+I used to think that nothing could make me happier than the seas, but you proved otherwise, my lord. Would you be my husband?{Раньше я думала, что ничто не может сделать меня счастливее, чем море. Но вы доказали обратное, милорд. Вы станете моим мужем?}
+I...  I do not know how to ask you this, but... Words elude me, I...  Would you...marry me?{Я... Я не знаю, как спросить вас об этом... Я не нахожу слов... Вы согласны стать моим мужем?}
 My lord, I have trod decks riddled with shot without the depth of fear I feel now.  Please ease my soul and tell me that you'll marry me!{Милорд, я прошла через многое... Пожалуйста, облегчи мою душу и скажи мне, что станешь моим мужем!}
 
 cplates_desc{Медные пластины снижают скорость обрастания днища водорослями и повышает прочность корпуса}
@@ -2450,6 +2451,7 @@ Old Inquisition prison{Старая Тюрьма Инквизиции}
 Archives{Архивы}
 Abandoned fort{Заброшенный Форт}
 Slave Camp{Лагерь Рабов}
+Slave Mine{Шахта Рабов}
 Dining Room{Обеденная}
 Dining Room.{Обеденная}
 
