@@ -143,7 +143,7 @@ Health Up{Здоровье повышается}
 You are cured from poison{Отравление излечено}
 has been sunk by{был потоплен! Отличился -}
 has been sunk by the{был потоплен! Отличился -}
-God gained{Бог получил}
+God gained{Господь получил}
 Total XP{Опыта}
 Hand of God{Господь}
 Victim poisoned!{Вы отравлены!}
@@ -759,6 +759,7 @@ Exit from #stown_name#{Выход из Города #stown_name#}
 #stown_name#{#stown_name#}
 #stown_name# town{Город #stown_name#}
 #stown_name# Port{Порт #stown_name#}
+#stown_name# port{Порт #stown_name#}
 #stown_name#. Center{Центр Города #stown_name#}
 #stown_name#. Trade Square{Центральная Площадь #stown_name#}
 Room in #stown_name# brothel{Комната в Борделе #stown_name#}
@@ -770,6 +771,7 @@ Tavern{Таверна}
 Store{Магазин}
 Jungle{Джунгли}
 House{Дом}
+Street{Улица}
 Tailor's Shop{Магазин Портного}
 Changing room{Раздевалка}
 Mansion{Особняк}
@@ -843,6 +845,7 @@ Exit from #stown_name#.{Выход из Города #stown_name#}
 #stown_name#.{#stown_name#}
 #stown_name# town.{Город #stown_name#}
 #stown_name# Port.{Порт #stown_name#}
+#stown_name# port.{Порт #stown_name#}
 #stown_name#. Center.{Центр Города #stown_name#}
 #stown_name#. Trade Square.{Торговая Площадь #stown_name#}
 Room in #stown_name# brothel.{Комната в Борделе #stown_name#}
@@ -976,6 +979,7 @@ House of Luc Merin{Дом Люка Мерина}
 Trade Square{Торговая Площадь}
 House of Mateus Santos{Дом Матеуса Сантоса}
 Study of Mateus Santos{Кабинет Матеуса Сантоса}
+Alas poor Yorick!{Увы, бедный Йорик!}
 Damski's House{Дом Дамски}
 House of Sidonio Ogarrio{Дом Сидонио Огаррио}
 Sea Passage{Проход к Морю}
@@ -1029,6 +1033,7 @@ Crew's quarters.{Каюта Команды}
 Quarterdeck.{Квартердек}
 
 Passage{Проход}
+Secret Passage{Секретный Проход}
 Old Fort{Старый Форт}
 Turtle Bay{Черепаховая Бухта}
 Inside House{Внутри Дома}
@@ -1331,6 +1336,8 @@ Battle_Rocks{Малый Табак}
 Isla De Muerte{Исла-Де-Муерте}
 IslaDeMuerte{Исла-Де-Муерте}
 Deserted shore{Пустынный Берег}
+Deserted Island Shore 1{Берег Необитаемого Острова}
+Deserted Island Shore 2{Берег Необитаемого Острова}
 Dead Man's Bay{Залив Мертвеца}
 Witch's Rock{Скала Ведьмы}
 Strange sail to the{Вижу парус! Направление - }
@@ -1420,7 +1427,12 @@ Guadeloupe lighthouse{Маяк Гваделупы}
 Redmond Townhall. Silehards's Bedroom{Резиденция Редмонда. Спальня Сайлхарда}
 Pirate bark{Пиратский Барк}
 Gamboa ship{Корабль Гамбоа}
-Kidnappers' Hideout, 2nd floor{Убежище похитителей, 2-й этаж}
+Santiago ship{Корабль Сантьяго}
+Black Pearl{Чёрная Жемчужина}
+1st floor{1-й этаж}
+2nd floor{2-й этаж}
+Kidnappers' Hideout, 2nd floor{Убежище Похитителей, 2-й этаж}
+Kidnappers' Hideout{Убежище Похитителей}
 House of Geffrey Bampfylde{Дом Джеффри Бэмпфилда}
 Room in Marigot tavern{Комната в Таверне Мариго}
 Mine{Шахта}
@@ -1526,9 +1538,15 @@ rhull_desc{Сооруженное на скорую руку структурное подкрепление, делает ваше судн
 flushed_desc{'Облегчение' включает в себя удаление надстройки судна, делая более "похожим на фрегат". Это позволяет уменьшить вес корабля,что влияет на мореходность.}
 
 Swamp Island{Остров Разбитого Корабля}
+Swamp{Болото}
+Hut.{Хижина}
+Tia Dalma{Тиа Дальма}
 Pirate's Cave{Пиратская Пещера}
 Log-house{Бревенчатый Дом}
 Swamp Wreck{Обломки Корабля}
+Shipwreck{Обломки Корабля}
+Bathhouse stairs{Лестница в Купальню}
+Bathhouse{Купальня}
 Store upstairs{Склад Магазина}
 Woodes Rogers' bedroom{Спальня Вудса Роджерса}
 Caroline K's bedroom{Спальня Каролины}
@@ -1567,6 +1585,7 @@ Port Royal old mine{Старая Шахта}
 Cannon tower{Орудийная Башня}
 Cave shore{Прибрежная Пещера}
 Blue cavern{Голубая Пещера}
+Church in Jungle{Церковь в Джунглях}
 Outside pirate church{Окраины Пиратской Церкви}
 Entrance to church attic{Проход на Церковный Чердак}
 Church attic{Церковный Чердак}
@@ -2185,6 +2204,7 @@ Rotunda middle levels{Ротонда: Средние Уровни}
 Rotunda lower levels{Ротонда: Нижние Уровни}
 Rotunda bottom level{Ротонда: Нижний Уровень}
 Prison Office{Кабинет Тюрьмы}
+Prison chambers{Тюремные Камеры}
 I'll need a Rope here.{Здесь мне понадобится верёвка.}
 Kitchen{Кухня}
 Dormitorium{Общая Комната}
@@ -2446,7 +2466,7 @@ Crewmember of{Член Команды}
 Bouncer{Вышибала}
 
 Taino Village{Деревня Таино}
-House of Gilbert Downing{Дом Гилберта Даунинга}
+House of Gilbert Downing{Дом Гильберта Даунинга}
 Old Inquisition prison{Старая Тюрьма Инквизиции}
 Archives{Архивы}
 Abandoned fort{Заброшенный Форт}
