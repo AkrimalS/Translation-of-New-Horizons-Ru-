@@ -69,7 +69,7 @@ tax_normal{Нормально}
 tax_high{Много}
 tax_plunder{Очень много}
 
-This officer can command ships up to tier{Этот офицер может командовать судами до класса}
+This officer can command ships up to class{Этот офицер может командовать судами до класса}
 
 Broken{В неисправном состоянии -}
 Badly worn{В сильно изношенном состоянии -}
@@ -1425,6 +1425,7 @@ Outskirts{Окраины}
 Bahia de Moa{Баия-де-Моа}
 Guadeloupe lighthouse{Маяк Гваделупы}
 Redmond Townhall. Silehards's Bedroom{Резиденция Редмонда. Спальня Сайлхарда}
+#stown_name# Townhall. Silehards's Bedroom{Резиденция #stown_name#. Спальня Сайлхарда}
 Pirate bark{Пиратский Барк}
 Gamboa ship{Корабль Гамбоа}
 Santiago ship{Корабль Сантьяго}
@@ -2572,6 +2573,10 @@ You take a uniform from one of the dead soldiers{Вы снимаете форму с одного из п
 The{Корабль}
 was repaired and reprovisioned{был отремонтирован и переоборудован}
 was repaired and new guns were installed{был отремонтирован, а также были установлены новые орудия}
+
+From the corpse of Desmond Ray Beltrop you took a blade with a mark on the blade - 'HURRICANE'.{С трупа Белтропа вы взяли меч с пометкой - 'УРАГАН'.}
+Barracuda left you and took part in the battle on the enemy side.{Барракуда покинул вас и принял участие в бою на стороне врага.}
+Gold removed -10000{Вы отдали 10.000 золотых монет!}
 
 - LEGEND -{- ЛЕГЕНДА -}
 : Ship Position{: Позиция Корабля}
