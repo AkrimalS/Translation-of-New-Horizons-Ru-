@@ -224,7 +224,7 @@ Your prisoner{Ваш пленник}
 jumped overboard and escaped!{сбежал! Прыгнул за борт и скрылся!}
 Sir, the{Сэр! Корабль}
 Ma'am, the{Мэм! Корабль}
-has struck her colors!{подняли белый флаг!}
+has struck her colors!{поднял белый флаг!}
 has struck her colors to the enemy!{решили атаковать нас!}
 Fire! Execute firedrill procedure!{Корабль горит! Нажмите "С", чтобы отправить всех на его тушение!}
 We lost a cannon! From the{Мы потеряли орудие!}
@@ -661,8 +661,8 @@ Land-interface commands on{Сухопутный командный интерфейс на}
 Islands and locations names on{Названия островов и локаций на}
 language...{языке...}
 Characters names on{Имена персонажей на}
-You get your blade back one day later.{Вы получите свой клинок через один день.}
-You get your gun back one day later.{Вы получите своё оружие через один день.}
+You get your blade back one day later.{Вы получили свой клинок через один день.}
+You get your gun back one day later.{Вы получили своё оружие через один день.}
 You wait here{Вам придётся подождать}
 for ship repairs{пока не починят Ваш корабль}
 Contraband transfer was interrupted by Coastal Guards{Сделка прервана появлением Береговой Стражи}
@@ -892,6 +892,8 @@ Gaming House.{Казино}
 The Dark Frigate{Чёрный Фрегат}
 The Faithful Bride{Верная Невеста}
 Will Turner's House{Дом Уилла Тёрнера}
+Spanish Camp{Испанский Лагерь}
+Battle Rocks port{Порт Боевые Скалы}
 
 Khael Roa Shore{Берег Каэль-Роа}
 Incas Temple{Храм Инков}
@@ -1331,8 +1333,9 @@ CrewMutinyArticles5{Ваши карманы пусты...}
 GainedPerk{Получена новая Способность:}
 You unlocked the perk:{Вы разблокировали способность:}
 PlaguevictimsGrave{Проклятие? Могила жертв чумы? Как бы то ни было, вы внезапно чувствуете себя ужасно больным!}
-Petit Tabac{Малый Табак}
-Battle_Rocks{Малый Табак}
+Petit Tabac{Петит-Табак}
+Battle_Rocks{Боевые Скалы}
+Devil Creek{Бухта Дьявола}
 Isla De Muerte{Исла-Де-Муерте}
 IslaDeMuerte{Исла-Де-Муерте}
 Deserted shore{Пустынный Берег}
