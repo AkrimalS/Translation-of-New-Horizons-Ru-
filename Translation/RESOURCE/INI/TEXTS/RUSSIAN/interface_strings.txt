@@ -551,7 +551,7 @@ You could pry this door open, but you never know what's waiting behind!{Из любоп
 Weaponslocker. Boarders use these arms, so stock it well!{Оружейный шкаф. Оружие необходимо при абордаже, так что храните его получше!}
 Weaponslocker. You can find something interesting here!{Оружейный шкаф. В нём может быть кое-что интересное!}
 Random locs disabled!{Произвольные локации отключены!}
-Your prying knife slips from the lock... into your hand!{Ваш нож соскальзывает с замка... прямо в Вашу руку!}
+Your prying knife slips from the lock... into your hand!{Ваш нож соскальзывает с замка... прямо в вашу руку!}
 You try to pick the lock with your knife... in vain!{Вы пытаетесь открыть замок своим ножом... безуспешно!}
 Your lockpick broke and got stuck in the lock!{Ваша отмычка сломалась и застряла в замке!}
 This lock will not open. There seems to be a lockpick stuck in it.{Этот замок не откроется. Кажется, там, застряла отмычка.}
@@ -1226,11 +1226,13 @@ Rocky Cove{Скалистая Бухта}
 Sandy Beach{Песчаный Пляж}
 Arawak Village{Деревня Аравак}
 Arawak Burialground{Место Захоронения Аравак}
+Boca Grandi{Бока-Гранди}
 
 Rocky Cove.{Скалистая Бухта}
 Sandy Beach.{Песчаный Пляж}
 Arawak Village.{Деревня Аравак}
 Arawak Burialground.{Место Захоронения Аравак}
+Boca Grandi.{Бока-Гранди}
 
 NoCannons{Орудий не Осталось!}
 Enough{Вы не можете установить больше орудий!}
@@ -2470,7 +2472,7 @@ Crewmember of{Член Команды}
 Bouncer{Вышибала}
 
 Taino Village{Деревня Таино}
-House of Gilbert Downing{Дом Гильберта Даунинга}
+House of Gilbert Downing{Дом Гилберта Даунинга}
 Old Inquisition prison{Старая Тюрьма Инквизиции}
 Archives{Архивы}
 Abandoned fort{Заброшенный Форт}
@@ -2482,7 +2484,7 @@ Dining Room.{Обеденная}
 HINT: If that warden comes close enough to the bars, you can mug him!{ПОДСКАЗКА: Если этот надзиратель подойдет достаточно близко к решетке, вы можете ограбить его!}
 Crew remaining:{Команды осталось:}
 crew died of maltreatment{моряков погибло от жестокого обращения}
-HINT: You aren't well armed and your officers aren't armed at all. Take all the help you can get!{ПОДСКАЗКА: Вы плохо вооружены, а ваши офицеры вообще не вооружены. Возьмите всё что может помочь!}
+HINT: You aren't well armed and your officers aren't armed at all. Take all the help you can get!{ПОДСКАЗКА: Вы плохо вооружены, а ваши офицеры вообще не вооружены. Возьмите всё, что может помочь!}
 crew died in the battle{моряков погибло в бою}
 I'm taking one of the soldier's uniforms. A disguise might be useful later.{Я возьму одну из солдатских униформ. Маскировка может пригодиться позже.}
 HINT: The captain will be more willing to talk to someone who looks like a soldier.{ПОДСКАЗКА: Капитан будет охотнее разговаривать с кем-то, кто выглядит как солдат.}
@@ -2490,13 +2492,13 @@ You broke the window and grabbed the map. Now RUN!{Ты разбил Окно и схватил Карт
 That looks like the original crew returning. Better get aboard and get out of here!{Похоже, возвращается команда. Лучше поднимайтесь на борт и убирайтесь отсюда!}
 Now to wait for the 'Siroco'...{Теперь осталось дождаться 'Сироко'...}
 Maybe there's something in that room with the wall markings...{Может быть, в той комнате с надписями на стенах есть что-то...}
-You have been given a lockpick.{Вы получили отмычку.}
-Run! They're after you!{Бегите! Вас преследуют!}
+You have been given a lockpick.{Вы получили отмычки!}
+Run! They're after you!{Бегите в джунгли! Вас преследует стража!}
 Search party{Поисковая группа}
 Someone heard that window break!{Кто-то услышал звук разбитого окна!}
 Yedam Kinne should have finished with the pass by now.{Едам Кинн уже должен был закончить с изготовлением пропуска.}
 Time to go to church!{Время идти в Церковь!}
-This uniform is uncomfortable, being made for a man, but I'd better wear it whenever I need to talk to the governor.{Эта униформа неудобна, поскольку сшита для мужчины, но мне лучше надевать ее всякий раз, когда мне нужно поговорить с губернатором.}
+This uniform is uncomfortable, being made for a man, but I'd better wear it whenever I need to talk to the governor.{Эта униформа неудобна, поскольку сшита для мужчины, но мне лучше надевать её всякий раз, когда мне нужно поговорить с губернатором.}
 Finally! Out of that ill-fitting uniform and back into my proper clothes.{Наконец-то! Снимаю эту плохо сидящую униформу и возвращаюсь в свою нормальную одежду.}
 Again I have to wear a man's uniform. Better than letting the French see me in my usual outfit, I suppose...{Снова мне приходится надевать мужскую форму. Полагаю, это лучше, чем позволить французам увидеть меня в моем обычном наряде...}
 Back to my own ship and back to my own clothes!{Обратно на мой собственный корабль и обратно к моей собственной одежде!}

@@ -41,6 +41,7 @@ Mercer{Ìונסונ}
 Bligh{Áכאי}
 Uncle{Äÿהÿ}
 Gules{Ã‏כוס}
+Mephistopheles{Ìופטסעמפוכü}
 
 {=====| quests_reaction.c |=====}
 Bartolomeu{Áאנעמכמלü‏}
