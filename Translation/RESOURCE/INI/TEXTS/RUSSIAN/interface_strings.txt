@@ -33,7 +33,7 @@ Exit from fortabordage confirm{Вы действительно хотите прекратить грабёж форта?}
 Exit from exchange confirm{Вы действительно хотите закончить обыск?}
 Not enough crew assigned{Оставлен минимальный экипаж!}
 Min crew reached{Свободных матросов не осталось!}
-This officer has too low Leadership and Sailing skills to command this ship. Assign anyway?{У этого офицера слишком низкие навыки Лидерство и Навигация, чтобы командовать этим кораблем. Всё равно хотите назначить?}
+This officer has too low Leadership and Sailing skills to command this ship. Assign anyway?{У этого офицера слишком низкие навыки Авторитет и Навигация, чтобы командовать этим кораблем. Всё равно хотите назначить?}
 You can't command a fleet until reaching level{Вы не можете командовать флотом, пока не достигнете уровня}
 Leadership. Assign anyway?{Лидерства. Всё равно назначить?}
 's current colours{сейчас под флагом}
@@ -551,7 +551,7 @@ You could pry this door open, but you never know what's waiting behind!{Из любоп
 Weaponslocker. Boarders use these arms, so stock it well!{Оружейный шкаф. Оружие необходимо при абордаже, так что храните его получше!}
 Weaponslocker. You can find something interesting here!{Оружейный шкаф. В нём может быть кое-что интересное!}
 Random locs disabled!{Произвольные локации отключены!}
-Your prying knife slips from the lock... into your hand!{Ваш нож соскальзывает с замка... прямо в Вашу руку!}
+Your prying knife slips from the lock... into your hand!{Ваш нож соскальзывает с замка... прямо в вашу руку!}
 You try to pick the lock with your knife... in vain!{Вы пытаетесь открыть замок своим ножом... безуспешно!}
 Your lockpick broke and got stuck in the lock!{Ваша отмычка сломалась и застряла в замке!}
 This lock will not open. There seems to be a lockpick stuck in it.{Этот замок не откроется. Кажется, там, застряла отмычка.}
@@ -1175,6 +1175,8 @@ Arsenal.{Казармы}
 #stown_name# Naval HQ{#stown_name# Военно-Морской Штаб}
 Officer Commanding #stown_name# Naval HQ{Офицер, командующий военно-морским штабом в городе #stown_name#}
 Mrs. Mason's House{Дом Миссис Мейсон}
+Yedam Kinne's house{Дом Едама Кинна}
+Mine commander's house{Дом Командира Шахты}
 Office{Кабинет}
 Naval Store{Военно-Морской Магазин}
 Naval Shipyard{Военно-Морская Верфь}
@@ -1226,11 +1228,17 @@ Rocky Cove{Скалистая Бухта}
 Sandy Beach{Песчаный Пляж}
 Arawak Village{Деревня Аравак}
 Arawak Burialground{Место Захоронения Аравак}
+Boca Grandi{Бока-Гранди}
 
 Rocky Cove.{Скалистая Бухта}
 Sandy Beach.{Песчаный Пляж}
 Arawak Village.{Деревня Аравак}
 Arawak Burialground.{Место Захоронения Аравак}
+Boca Grandi.{Бока-Гранди}
+
+The West Indies Brotherhood of Assassins - Headquarters{Вест-Индское Братство Ассасинов - Штаб-Квартира}
+Treasure room{Сокровищница}
+Pyramid inside{Пирамида}
 
 NoCannons{Орудий не Осталось!}
 Enough{Вы не можете установить больше орудий!}
@@ -1711,7 +1719,7 @@ The chest is blocked by a lot of goods.{Ящик завален хламом.}
 Choose ONE picture.{Выберите ОДНУ картину.}
 Yes, this picture seems to be the right one!{Да, этот портрет, кажется и нужен!}
 Now I need some glue to repair the Book.{Теперь мне нужно немного клея, чтобы починить книгу.}
-No, this is not the right picture!{Нет, это не то что нужно.}
+No, this is not the right picture!{Нет, это не то что нужно!}
 Maybe I should cut him down.{Возможно мне нужно его обрезать.}
 That barrel could be useful but I can't remove it with my bare hands from the gibbet.{Этот боченок может оказаться полезным, но мне не оттащить его от виселицы голыми руками.}
 Ok, there might be skeletons in here...{Здесь могут быть скелеты...}
@@ -2253,7 +2261,7 @@ No, I havn't processed the content yet.{Нет, я ещё не обработал содержимое.}
 I can grind stones here.{Я могу размолоть камни здесь.}
 I think I'll use the Big Bottle for Mixtures instead.{Я думаю, что воспользуюсь Большой Бутылочкой для Смесей.}
 I think I'll use the Small Bottle for Mixtures instead.{Я думаю, что воспользуюсь Маленькой Бутылочкой для Смесей.}
-I think that's the right mixture.{Я думаю, что это правильная Смесь.} 
+I think that's the right mixture.{Я думаю, что это правильная Смесь.}
 A Small Bottle will do here.{Здесь поможет Маленькая Бутылочка.}
 A clean piece of Cloth as a filter is needed here.{Здесь нужен чистый кусочек ткани в качестве фильтра.}
 Two Salt Jars are enough!{Двух Банок с Солью достаточно!}
@@ -2470,7 +2478,7 @@ Crewmember of{Член Команды}
 Bouncer{Вышибала}
 
 Taino Village{Деревня Таино}
-House of Gilbert Downing{Дом Гильберта Даунинга}
+House of Gilbert Downing{Дом Гилберта Даунинга}
 Old Inquisition prison{Старая Тюрьма Инквизиции}
 Archives{Архивы}
 Abandoned fort{Заброшенный Форт}
@@ -2479,10 +2487,10 @@ Slave Mine{Шахта Рабов}
 Dining Room{Обеденная}
 Dining Room.{Обеденная}
 
-HINT: If that warden comes close enough to the bars, you can mug him!{ПОДСКАЗКА: Если этот надзиратель подойдет достаточно близко к решетке, вы можете ограбить его!}
+HINT: If that warden comes close enough to the bars, you can mug him!{ПОДСКАЗКА: Если этот надзиратель подойдёт достаточно близко к решетке, вы можете ограбить его!}
 Crew remaining:{Команды осталось:}
 crew died of maltreatment{моряков погибло от жестокого обращения}
-HINT: You aren't well armed and your officers aren't armed at all. Take all the help you can get!{ПОДСКАЗКА: Вы плохо вооружены, а ваши офицеры вообще не вооружены. Возьмите всё что может помочь!}
+HINT: You aren't well armed and your officers aren't armed at all. Take all the help you can get!{ПОДСКАЗКА: Вы плохо вооружены, а ваши офицеры вообще не вооружены. Возьмите всё, что может помочь!}
 crew died in the battle{моряков погибло в бою}
 I'm taking one of the soldier's uniforms. A disguise might be useful later.{Я возьму одну из солдатских униформ. Маскировка может пригодиться позже.}
 HINT: The captain will be more willing to talk to someone who looks like a soldier.{ПОДСКАЗКА: Капитан будет охотнее разговаривать с кем-то, кто выглядит как солдат.}
@@ -2490,15 +2498,15 @@ You broke the window and grabbed the map. Now RUN!{Ты разбил Окно и схватил Карт
 That looks like the original crew returning. Better get aboard and get out of here!{Похоже, возвращается команда. Лучше поднимайтесь на борт и убирайтесь отсюда!}
 Now to wait for the 'Siroco'...{Теперь осталось дождаться 'Сироко'...}
 Maybe there's something in that room with the wall markings...{Может быть, в той комнате с надписями на стенах есть что-то...}
-You have been given a lockpick.{Вы получили отмычку.}
-Run! They're after you!{Бегите! Вас преследуют!}
+You have been given a lockpick.{Вы получили отмычки!}
+Run! They're after you!{Бегите в джунгли! Вас преследует стража!}
 Search party{Поисковая группа}
 Someone heard that window break!{Кто-то услышал звук разбитого окна!}
 Yedam Kinne should have finished with the pass by now.{Едам Кинн уже должен был закончить с изготовлением пропуска.}
 Time to go to church!{Время идти в Церковь!}
-This uniform is uncomfortable, being made for a man, but I'd better wear it whenever I need to talk to the governor.{Эта униформа неудобна, поскольку сшита для мужчины, но мне лучше надевать ее всякий раз, когда мне нужно поговорить с губернатором.}
+This uniform is uncomfortable, being made for a man, but I'd better wear it whenever I need to talk to the governor.{Эта униформа неудобна, поскольку сшита для мужчины, но мне лучше надевать её всякий раз, когда мне нужно поговорить с губернатором.}
 Finally! Out of that ill-fitting uniform and back into my proper clothes.{Наконец-то! Снимаю эту плохо сидящую униформу и возвращаюсь в свою нормальную одежду.}
-Again I have to wear a man's uniform. Better than letting the French see me in my usual outfit, I suppose...{Снова мне приходится надевать мужскую форму. Полагаю, это лучше, чем позволить французам увидеть меня в моем обычном наряде...}
+Again I have to wear a man's uniform. Better than letting the French see me in my usual outfit, I suppose...{Снова мне приходится надевать мужскую форму. Полагаю, это лучше, чем позволить французам увидеть меня в моём обычном наряде...}
 Back to my own ship and back to my own clothes!{Обратно на мой собственный корабль и обратно к моей собственной одежде!}
 You found all your weapons.{Вы нашли всё своё оружие.}
 You found your equipment. Equip some of it!{Вы нашли свою экипировку. Снарядите кое-что из этого!}
@@ -2506,9 +2514,9 @@ The lock on this door must date back to the time when this town was Spanish.{Зам
 It opens with the same key that you used to escape from Havana prison!{Он открывается тем же ключом, которым вы воспользовались для побега из Гаванской тюрьмы!}
 A few minutes later...{Прошло несколько минут...}
 Hint: To make an officer available to command your ship, assign that officer to one of the shore party slots.{ПОДСКАЗКА: Чтобы назначить офицера для командования вашим кораблем, назначьте этого офицера на одно из мест береговой группы.}
-Hint: To make an officer available to command your ship, assign that officer to one of the first three shore party slots.{ПОДСКАЗКА: Чтобы назначить офицера для командования вашим кораблем, назначьте этого офицера на одно из первых трех мест в береговой группе.}
+Hint: To make an officer available to command your ship, assign that officer to one of the first three shore party slots.{ПОДСКАЗКА: Чтобы назначить офицера для командования вашим кораблем, назначьте этого офицера на одно из первых трёх мест в береговой группе.}
 Hint: To make an officer available as an escort, assign that officer to one of the shore party slots.{ПОДСКАЗКА: Чтобы предоставить офицера в качестве сопровождающего, назначьте этого офицера на одно из мест береговой охраны.}
-Hint: To make an officer available as an escort, assign that officer to one of the first three shore party slots.{ПОДСКАЗКА: Чтобы предоставить офицера в качестве сопровождающего, назначьте этого офицера на одно из первых трех мест для береговой охраны.}
+Hint: To make an officer available as an escort, assign that officer to one of the first three shore party slots.{ПОДСКАЗКА: Чтобы предоставить офицера в качестве сопровождающего, назначьте этого офицера на одно из первых трёх мест для береговой охраны.}
 Capitбn{Капитан}
 CapitЭo{Капитэо}
 Teniente{Лейтенант}
@@ -2579,6 +2587,7 @@ was repaired and new guns were installed{был отремонтирован, а также были устано
 
 From the corpse of Desmond Ray Beltrop you took a blade with a mark on the blade - 'HURRICANE'.{С трупа Белтропа вы взяли меч с пометкой - 'УРАГАН'.}
 Barracuda left you and took part in the battle on the enemy side.{Барракуда покинул вас и принял участие в бою на стороне врага.}
+
 Gold removed -10000{Вы отдали 10.000 золотых монет!}
 
 - LEGEND -{- ЛЕГЕНДА -}
