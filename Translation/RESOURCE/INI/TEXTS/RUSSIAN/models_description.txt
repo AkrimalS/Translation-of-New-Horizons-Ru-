@@ -29,7 +29,7 @@ Black loose trowsers, a light shirt, sash, bandanna, something that will complim
 Black loose trowsers, a steel cuirass, sash, bandanna, something that will compliment dreadlocks.{Черные свободные штаны, стальная кираса, пояс, бандана и что-то, дополняющее дреды.}
 Black loose trowsers, an engraved breastplate, sash, bandanna, something that will compliment dreadlocks.{Черные свободные штаны, гравированный нагрудник, пояс, бандана и что-то, дополняющее дреды.}
 Black loose trowsers, a gilded breastplate, sash, bandanna, something that will compliment dreadlocks.{Черные свободные штаны, позолоченный нагрудник, пояс, бандана и что-то, дополняющее дреды.}
-How about just a brown vest, and no shirt, with all that weight and no hair it's probably warm enough...{Как насчет коричневого жилета без рубашки, с большим весом и без волос...}
+How about just a brown vest, and no shirt, with all that weight and no hair it's probably warm enough...{Как насчёт коричневого жилета без рубашки, с большим весом и без волос...}
 A white shirt and vest big enough to accommodate some heavy girth, and there is no need for a barber.{Белая рубашка и жилет, достаточно большие, чтобы соответствовать такому обхвату, и парикмахер не нужен.}
 Something that just cries out... Big Pirate... A striped shirt, red vest, and a mustache!{Что-то, просто кричащее... большой пират... Полосатая рубашка, красный жилет и усы!}
 With a heavy build, baldness, and some stubble a white shirt and a brown vest make one look like a successful, seasoned merchant.{С тяжёлым телосложением, лысиной и щетиной, белая рубашка и коричневый жилет создадут вид успешного и опытного торговца.}
@@ -41,7 +41,7 @@ Talk about the latest from Paris, a red striped-and-frilled coat, sash, NICE hat
 An Elizabethan collar and frills, dark vested suit, no hat, something that cries out Iberian distinction!{Елизаветинский воротник с оборками, костюм с темным жилетом, без шляпы, нечто кричащее о иберийской исключительности!}
 THIS kit has Elizabethan collars as well, a blue suit, and no hat is required to set of the latest fashion from Madrid!{У ЭТОГО набора тоже есть елизаветинский воротник, голубой костюм, и никакая шляпа не нужна к этому набору последней моды Мадрида!}
 This Admiral's uniform harkens to a more classic time, lending dignity and stateliness to any quarterdeck.{Форма этого адмирала напоминает классические времена, о достоинстве и величии на любой палубе.}
-How about a simple pair of trousers and a loose fitting shirt like that white-haired fellow is wearing over there...{Как насчет простой пары штанов и свободной рубашки, которую носит вон тот седой приятель...}
+How about a simple pair of trousers and a loose fitting shirt like that white-haired fellow is wearing over there...{Как насчёт простой пары штанов и свободной рубашки, которую носит вон тот седой приятель...}
 Something downright swarthy, a shirt with long puffed sleeves, brown vest, and it's time to let the hair grow out some.{Нечто очень смуглое, рубашка с длинными рукавами, коричневый жилет, и настало время дать волосам немного отрасти.}
 For the Caribe in us all, a shirt with long puffed sleeves, brown vest, and let the hair grow out some.{Для карибов рубашка с длинными рукавами, коричневый жилет, и дайте волосам немного отрасти.}
 This nice golden dress will so accentuate those lovely blonde curls so that no one would think of telling a blonde joke...{Это замечательное золотое платье так подчеркнет эти прекрасные светлые кудри, так что никто и не подумает выкинуть шуточку о блондинках...}
@@ -51,11 +51,11 @@ This ornate engraved Spanish armor and suit will create quite a sensation in Isl
 A polished Spanish naval uniform, as worn by the son of an admiral.{Полированная испанская военно-морская форма, которую носил сын адмирала.}
 This scarlet outfit, and the coiffure I'd recommend go with it, were made the height of fashion in the Mediterranean by that famous Maltese knight Sir Michael Jackson!{Этот алый наряд и прическа, которую я к нему порекомендовал, являются писком моды на Средиземноморье, заданным известным мальтийским рыцарем сэром Майклом Джексоном!}
 Just a blue longsleeved shirt and black vest for that dark hair.{Просто синяя рубашка с длинными рукавами и чёрный жилет к этим темным волосам.}
-How about something common, say a half-sleeved white shirt, black vest-coat, and let the hair grow longer.{Как насчет чего-нибудь обычного, скажем, белой рубашки с короткими рукавами, черного камзола-жилета, и дайте волосам отрасти.}
+How about something common, say a half-sleeved white shirt, black vest-coat, and let the hair grow longer.{Как насчёт чего-нибудь обычного, скажем, белой рубашки с короткими рукавами, черного камзола-жилета, и дайте волосам отрасти.}
 I'm thinking a common white shirt, vest, and let the hair down...{Я думаю об обычной белой  рубашке с жилетом, и распустите волосы...}
 White long-sleeved shirt, closed vest... Just the right thing to blend in well with the village idiots.{Белая рубашка с длинными рукавами, закрытый жилет... Как раз то, что нужно, чтобы хорошо слиться с деревенскими идиотами!}
 Perhaps this nice Dutch ensemble of a stiff-collared white shirt, dark brown vest, and wide-brimmed hat will clash with a Mediterranean complexion, but you never know.{Возможно, этот замечательный голландский костюм из белой рубашки с накрахмаленным воротником, темно-коричневого жилета и широкополой шляпы не сочетается со средиземноморским цветом кожи, но вы никогда этого не узнаете.}
-How about a nice Dutch ensemble of a stiff-collared white shirt, light brown vest, and a Dutch wide-brimmed hat?{Как насчет замечательного голландского костюма из белой рубашки с жёстким воротником, светло-коричневого жилета и голландской широкополой шляпы?}
+How about a nice Dutch ensemble of a stiff-collared white shirt, light brown vest, and a Dutch wide-brimmed hat?{Как насчёт замечательного голландского костюма из белой рубашки с жёстким воротником, светло-коричневого жилета и голландской широкополой шляпы?}
 This simple cotton ensemble consisting in the main of an open white shirt comes directly from Neanderthal's of London!{Этот простой хлопковый костюм состоит, в основном, из открытой белой рубашки, пришедшей с этим лондонским неандертальцем!}
 Just a simple tattered shirt to blend into the crowds with.  Unwanted attention may be... unwanted...{Просто простая изорванная рубашка, чтобы смешаться с толпой. Нежелательное внимание может быть... нежелательно...}
 No pretensions, just a green open longsleeved shirt over blue pants, and a haircut and a mustache trim.{Без претензий, просто зеленая открытая, с длинными рукавами, рубашка поверх синих штанов и стрижка с аккуратными усами.}
@@ -65,7 +65,7 @@ A dark vest and a dark mask for the face for those with a dark mood and a dark h
 This dark vest and mask holds such menace no one will notice the bald pate!{Этот темный жилет и маска таят такую опасность, что никто не обнаружит плешь!}
 For those incognito moods, a dark vest and a highwaymans mask.{Для тех, кто в настроении инкогнито, темный жилет и маска разбойника.}
 A shirt, a vest, a hat and a mask!  What skulking sticky-fingered thieving brigand could ask for more?{Рубашка, жилет, шляпа и маска! Чего же ещё может желать притаившийся вор и разбойник?}
-Something from the Far East, and how about a haircut to go with it?{Что-то с дальнего востока, и как насчет стрижки?}
+Something from the Far East, and how about a haircut to go with it?{Что-то с дальнего востока, и как насчёт стрижки?}
 This simple brown monk's garb would be accentuated by a monk's tonsure, if one can stand to go around that way.  But it would evoke trust everywhere!{Простая коричневая роба монаха будет дополнена постригом, если кто-то сможет ходить вот так. Но это вызовет всеобщее доверие!}
 A brown monk's robe is one thing, but a tonsure is quite another!  A normal haircut and a hefty-healthy beard is much more to the point!{Коричневая роба монаха - одно дело, но постриг - совершенно другое! Нормальная стрижка и большая борода куда лучше!}
 For the small, severely malnourished monkey!{Для маленькой, сильно истощенной обезьянки!}
@@ -216,8 +216,8 @@ A dress with light blue sleeves and collar, brown laced bodice, burgundy skirt, 
 If ye be yearnin' t' be a Bilgemunky, this be yer outfit.{Если ты хочешь быть фокусником, то это твой наряд.}
 Retro French soldier look, but with a renegade flair, and a red bandana to top it off.{Вид старинного французского солдата, но со склонностью к предательствам и красной банданой сверху.}
 Give me an outfit suitable for an adventurer, but this time, make it a bit more evil.{Дайте мне наряд, подходящий для авантюриста, но на этот раз сделайте его немного злее.}
-How about a nice young impressionable cabin boy type?{Как насчет замечательного молодого впечатлительного юнги?}
-How about a nice young impressionable Iberian cabin boy type?{Как насчет замечательного молодого впечатлительного иберийского юнги?}
+How about a nice young impressionable cabin boy type?{Как насчёт замечательного молодого впечатлительного юнги?}
+How about a nice young impressionable Iberian cabin boy type?{Как насчёт замечательного молодого впечатлительного иберийского юнги?}
 Give me a navigator's outfit, pirate style.{Дайте мне наряд штурмана, в пиратском стиле.}
 Black boots, trousers, coat and hat with red trim, long grey hair and beard, and a very mean disposition that has increased with age.{Черные сапоги, штаны, камзол и шляпа с красной отделкой, длинные седые волосы, борода и скверный характер, ухудшившийся с годами.}
 Lived through a lot of pain, now I'm ready to give some.{Пережив много боли, теперь я хочу ею поделиться.}
@@ -318,25 +318,25 @@ A functional tradesman's uniform, ideal for Doctors.{Функциональная торговая фор
 A functional tradesman's uniform, ideal for Gunners.{Функциональная торговая форма, идеальная для канониров.}
 A functional tradesman's uniform, ideal for Pursers.{Функциональная торговая форма, идеальная для казначеев.}
 Taegan's simple vest outfit but without the vest.{Простой жилет Тиген, но без жилета.}
-How about a simple brown vest to fit my girlish figure.{Как насчет простого коричневого жилета, чтобы подчеркнуть мою женственную фигуру.}
+How about a simple brown vest to fit my girlish figure.{Как насчёт простого коричневого жилета, чтобы подчеркнуть мою женственную фигуру.}
 A simple brown vest with a Steel Cuirass.{Простой коричневый жилет со стальной кирасой.}
 A simple brown vest with a Battle Cuirass.{Простой коричневый жилет с боевой кирасой.}
 A simple brown vest with a Gold Cuirass.{Простой коричневый жилет с золотой кирасой.}
 Taegan's presentable waistcoat outfit but without the waistcoat.{Презентабельный жилет Тиген, но без жилета.}
-How about a presentable red waistcoat to fit my girlish figure.{Как насчет презентабельного красного жилета, чтобы подчеркнуть мою женственную фигу.}
+How about a presentable red waistcoat to fit my girlish figure.{Как насчёт презентабельного красного жилета, чтобы подчеркнуть мою женственную фигу.}
 A presentable red waistcoat with Steel Cuirass.{Презентабельный красный жилет со стальной кирасой.}
 A presentable red waistcoat with Battle Cuirass.{Презентабельный красный жилет с боевой кирасой.}
 A presentable red waistcoat with Gold Cuirass.{Презентабельный красный жилет с золотой кирасой.}
 Taegan's captain's coat outfit but without the coat.{Капитанский камзол Тиген, но без камзола.}
-How about a captain's coat to fit my girlish figure, black of course and throw in a matching hat.{Как насчет капитанского камзола, чтобы подчеркнуть мою женственную фигуру, чёрный, конечно же, и накиньте подходящую шляпу.}
+How about a captain's coat to fit my girlish figure, black of course and throw in a matching hat.{Как насчёт капитанского камзола, чтобы подчеркнуть мою женственную фигуру, чёрный, конечно же, и накиньте подходящую шляпу.}
 A captain's coat, black with Steel Cuirass.{Капитанский камзол, чёрный со стальной кирасой.}
 A captain's coat, black with Battle Cuirass.{Капитанский камзол, чёрный с боевой кирасой.}
 A captain's coat, black with Gold Cuirass.{Капитанский камзол, чёрный с золотой кирасой.}
-How about an elegant gown, perhaps a little revealing of my girlish figure.{Как насчет элегантного платья, возможно, немного откровенного для моей женственной фигуры.}
+How about an elegant gown, perhaps a little revealing of my girlish figure.{Как насчёт элегантного платья, возможно, немного откровенного для моей женственной фигуры.}
 An elegant and revealing gown with Steel Cuirass.{Элегантное и откровенное платье со стальной кирасой.}
 An elegant and revealing gown with Battle Cuirass.{Элегантное и откровенное платье с боевой кирасой.}
 An elegant and revealing gown with Gold Cuirass.{Элегантное и откровенное платье с золотой кирасой.}
-I want to look like Roxanne Lalliere.{Я хочу выглядеть как Роксана Лаллир.}
+I want to look like Roxanne Lalliere.{Я хочу выглядеть как Роксана Лальер.}
 Here is an assassin but a beautiful one!{Я хочу выглядеть как прекрасная убийца Авелина де Грандпре!}
 He's an accountant in the employ of Aveline de Grandprй but also her best friend.{Казначей, работающий на Авелину де Гранпре, а также её лучший друг.}
 The scar on his cheek shows that this man is a veteran of many fights.{Шрам на щеке показывает, что этот человек - ветеран многих боёв.}
@@ -368,7 +368,7 @@ Vito Leone, a seemingly harmless old gentleman, but is everything entirely as it
 Camille Leone, a precious sight!{Камилла Леоне, прелестный вид!}
 Amerigo Vieira, Master Swordsman! The best blade in the entire archipelago!{Америго Вийера, мастерский фехтовальщик! Лучший на всем архипелаге!}
 One of Mateus Santo's Thugs, a little worse for wear and tear.{Один из головорезов Матеуса Сантоса, немного изношен и изодран.}
-How about a young promising Royal Navy lieutenant?{Как насчет молодого многообещающего лейтенанта королевского флота?}
+How about a young promising Royal Navy lieutenant?{Как насчёт молодого многообещающего лейтенанта королевского флота?}
 A Spanish Naval Lieutenant's unifor{Форма испанского лейтенанта.}
 A Spanish Admiral's uniform.{Форма испанского адмирала.}
 A distinguished Spanish admiral with many years of service - and medals to prove it.{Выдающийся испанский адмирал с многолетним стажем и медалями, подтверждающими это.}
@@ -496,10 +496,10 @@ A captain in the service of the United States of America!{Капитан на службе Соед
 An admiral in the service of the United States of America!{Адмирал на службе Соединенных Штатов Америки!}
 This sailor has a grey jacket with golden trim and leather shoulder patches. And who needs a beard when you have sideburns like that?{На этом моряке серая куртка с золотой отделкой и кожаными нашивками на плечах. И кому нужна борода, когда у тебя такие бакенбарды?}
 The best friend of Bartolomeu o Portugues: A faithful comrade.{Лучший друг Бартоломью Португальца. Преданный товарищ.}
-I feel like a trader. But a shady one. How about a Buccaneer like Eugene Martin?{Я чувствую себя торговцем. Но темным. Как  насчет буканьера вроде Юджина Мартина?}
-I feel like a dangerous pirate. How about something like Francois L'Ollonais?{Я чувствую себя опасным пиратом. Как насчет кого-нибудь вроде Франсуа Л'Олонэ?}
+I feel like a trader. But a shady one. How about a Buccaneer like Eugene Martin?{Я чувствую себя торговцем. Но темным. Как  насчёт буканьера вроде Юджина Мартина?}
+I feel like a dangerous pirate. How about something like Francois L'Ollonais?{Я чувствую себя опасным пиратом. Как насчёт кого-нибудь вроде Франсуа Л'Олонне?}
 I want to look like Guibert Daudet.{Я хочу выглядеть как Гвиберт Доде.}
-I feel like a famous pirate. Henry Morgan will do.{Я чувствую себя известным пиратом. Генри Морган подойдет.}
+I feel like a famous pirate. Henry Morgan will do.{Я чувствую себя известным пиратом. Генри Морган подойдёт.}
 I keep a couple of extra guns just for company...{У меня с собой пара дополнительных пистолетов, просто для компании...}
 I DO have the face for tentacleys!{У меня ЕСТЬ лицо для щупалец!}
 This old seadog hails from the Northern Waters.{Этот старый морской пес прибыл из северных вод.}
@@ -508,24 +508,24 @@ Crew cut, grey trousers, red leather boots and a shirt that fits loose and will 
 Crew cut, grey trousers, dark brown leather boots, a shirt that fits loose, a waistcoat and sword belt and the kid gloves are off.{Короткая стрижка, серые штаны, темно-коричневые кожаные сапоги, свободная рубашка, жилет и пояс для оружия. Перчаток нет.}
 Crew cut, grey trousers, dark leather gold trim boots and a shirt that fits loose, a waistcoat and headband, bare knuckled. He makes a good Pirate!{Короткая стрижка, серые штаны, темные кожаные сапоги, отделанные золотом, и свободная рубашка. Жилет и повязка на голову, едва налезающая. Он хороший пират!}
 A flashy red coat, trimmed with golden leafs. And on top of that, an Indian pattern bandana. Now I look like a real 'gentlemen' pirate!{Броский красный камзол, отделанный золотыми листьями. А сверху всего этого бандана в индейском стиле. Теперь я выгляжу как настоящий 'джентльмен'-пират!}
-I feel like a Portuguese Marine. How about something like Manuel Sousa ?{Я чувствую себя португальским моряком. Как насчет кого-нибудь вроде Мануэля Соуза?}
-I feel like a Portuguese Marine. How about something like Lourenзo Vaz ?{Я чувствую себя португальским моряком. Как насчет кого-нибудь вроде Лоренсо Ваза?}
+I feel like a Portuguese Marine. How about something like Manuel Sousa ?{Я чувствую себя португальским моряком. Как насчёт кого-нибудь вроде Мануэля Соуза?}
+I feel like a Portuguese Marine. How about something like Lourenзo Vaz ?{Я чувствую себя португальским моряком. Как насчёт кого-нибудь вроде Лоренсо Ваза?}
 A perfect outfit for an infiltration mission in Spanish towns.{Идеальный наряд для проникновения в испанские города.}
 Just the best Spanish swordsman in the archipelago.{Просто лучший испанский фехтовальщик в архипелаге.}
-I feel like the Director of the Dutch West India Compagny. How about something like Gherarde de Jongh.{Я чувствую себя директором Вест-Индской Торговой Компании. Как насчет кого-нибудь вроде Герарде де Йонга?}
-I feel like an unlucky Spanish soldier. How about something like Arturo Campos ?{Я чувствую себя неудачливым испанским солдатом. Как насчет кого-нибудь вроде Артуро Кампоса?}
-I feel like an unlucky Dutch Soldier. How about something like Berend De Voor ?{Я чувствую себя неудачливым голландским солдатом. Как насчет кого-нибудь вроде Беренда де Вура?}
-I feel like an unlucky French Soldier. How about something like Rabel Chardon ?{Я чувствую себя неудачливым французским солдатом. Как насчет кого-нибудь вроде Рабеля Шардона?}
-I feel like an unlucky English Soldier. How about something like Jeremy Tripper ?{Я чувствую себя неудачливым английским солдатом. Как насчет кого-нибудь вроде Джереми Триппера?}
-I feel like an unlucky Portuguese Soldier. How about something like Serafino Masarenhas ?{Я чувствую себя неудачливым португальским солдатом. Как насчет кого-нибудь вроде Серафино Мазариньяса?}
+I feel like the Director of the Dutch West India Compagny. How about something like Gherarde de Jongh.{Я чувствую себя директором Вест-Индской Торговой Компании. Как насчёт кого-нибудь вроде Герарде де Йонга?}
+I feel like an unlucky Spanish soldier. How about something like Arturo Campos ?{Я чувствую себя неудачливым испанским солдатом. Как насчёт кого-нибудь вроде Артуро Кампоса?}
+I feel like an unlucky Dutch Soldier. How about something like Berend De Voor ?{Я чувствую себя неудачливым голландским солдатом. Как насчёт кого-нибудь вроде Беренда де Вура?}
+I feel like an unlucky French Soldier. How about something like Rabel Chardon ?{Я чувствую себя неудачливым французским солдатом. Как насчёт кого-нибудь вроде Рабеля Шардона?}
+I feel like an unlucky English Soldier. How about something like Jeremy Tripper ?{Я чувствую себя неудачливым английским солдатом. Как насчёт кого-нибудь вроде Джереми Триппера?}
+I feel like an unlucky Portuguese Soldier. How about something like Serafino Masarenhas ?{Я чувствую себя неудачливым португальским солдатом. Как насчёт кого-нибудь вроде Серафино Мазариньяса?}
 I feel like a famous pirate. Roche Brasiliano will do.{Я чувствую себя известным пиратом. Рок Бразилец подойдёт.}
 Before the arrival of Henry Morgan, this old man was regarded as the pirate leader of Jamaica.{До прибытия Генри Моргана этот старик был признан лидером пиратов Ямайки.}
-I feel like a famous mercenary. How about something like Johan Elting?{Я чувствую себя известным наемником. Как насчет кого-нибудь вроде Йогана Элтинга?}
-I feel like a famous mercenary. How about something like Johan Elting? But not too conspicuous.{Я чувствую себя известным наемником. Как насчет кого-нибудь вроде Йогана Элтинга? Но не слишком заметно.}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit?{Я чувствую себя известным наемником. Как насчет кого-нибудь вроде Йогана Элтинга с его темным нарядом?}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and unadorned steel breastplate?{Я чувствую себя известным наемником. Как насчет кого-нибудь вроде Йогана Элтинга с его темным нарядом и неукрашенным стальным нагрудником?}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and engraved steel breastplate?{Я чувствую себя известным наемником. Как насчет кого-нибудь вроде Йогана Элтинга с его темным нарядом и гравированном стальным нагрудником?}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and intricate golden breastplate?{Я чувствую себя известным наемником. Как насчет кого-нибудь вроде Йогана Элтинга с его темным нарядом и затейливым золотым нагрудником?}
+I feel like a famous mercenary. How about something like Johan Elting?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга?}
+I feel like a famous mercenary. How about something like Johan Elting? But not too conspicuous.{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга? Но не слишком заметно.}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом?}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and unadorned steel breastplate?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и неукрашенным стальным нагрудником?}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and engraved steel breastplate?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и гравированном стальным нагрудником?}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and intricate golden breastplate?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и затейливым золотым нагрудником?}
 He is the officer of Johan Elting and an expert in weapons.{Он - офицер Йогана Элтинга и эксперт в оружии.}
 An engraved steel breastplate dominates this outfit that includes a combination of a yellow and red Spanish officers uniform!{Гравированный нагрудник преобладает в этом наряде, включающем в себя желто-красную форму испанского офицера!}
 A very wealthy-looking guy you could easily imagine to be a Vice-Admiral of the Spanish Navy.{Очень состоятельно выглядящий парень, вы легко могли бы представить его вице-адмиралом испанского флота.}
