@@ -705,6 +705,8 @@ PIRATES RAID{ПИРАТСКИЙ НАЛЁТ}
 You are ALONE now. No other LIVING soul dares to enter here..{Теперь вы сами по себе. Ни одна ЖИВАЯ душа не рискнёт войти сюда...}
 The warriormonk disappears... like the smoke of a long forgotten pyre...{Воинственный монах исчезает... подобно дыму давно забытого погребального огня...}
 The weird monk reveals his true nature..{Ужасный монах показал своё истинное лицо..}
+below the FLOORSLABS of this church{под полом этой церкви}
+south of this undercroft, behind the half collapsed passage{к югу от этого подземелья, за полуразрушенным проходом}
 Old vag gone at the moment, but...burglers!{Старого бродяги сейчас нет, но... взломщики!}
 We are recognized, captain!{Мы разоблачены, капитан!}
 Cabin for captives can be here{Здесь может быть помещение для пленных}

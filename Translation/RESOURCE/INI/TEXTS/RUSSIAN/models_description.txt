@@ -224,7 +224,7 @@ Lived through a lot of pain, now I'm ready to give some.{Пережив много боли, теп
 Would ye be want'n to hire a tomb raider?{Вы хотели бы нанять расхитительницу гробниц?}
 A descendant of Spaniard and Carib, she knows the Caribbean well.{Потомок испанцев и карибов, она хорошо знает карибский.}
 Beauty with eyes as green as emeralds and hair as red as blood.{Красавица с глазами, зелеными, как изумруды, и волосами, красными, как кровь.}
-As skilled with the sword as she is beautiful, they call her Borinqueсa{Хорошо владеет мечом и прекрасна, её называют пуэрториканкой}
+As skilled with the sword as she is beautiful, they call her Borinqueсa{Хорошо владеет мечом и прекрасна, её называют пуэрториканкой.}
 Don't let her beauty deceive you, she's a Pirate Captain.{Не позволяйте её красоте обмануть вас, она пиратский капитан.}
 Have you met Orable's uncle, Elbaro?{Вы знакомы с дядей Орабля, Эльбаро?}
 Sparrow got old, hit the bottle, and now look at him!{Воробей постарел, спился, посмотрите на него!}
@@ -520,12 +520,12 @@ I feel like an unlucky English Soldier. How about something like Jeremy Tripper 
 I feel like an unlucky Portuguese Soldier. How about something like Serafino Masarenhas ?{Я чувствую себя неудачливым португальским солдатом. Как насчёт кого-нибудь вроде Серафино Мазариньяса?}
 I feel like a famous pirate. Roche Brasiliano will do.{Я чувствую себя известным пиратом. Рок Бразилец подойдёт.}
 Before the arrival of Henry Morgan, this old man was regarded as the pirate leader of Jamaica.{До прибытия Генри Моргана этот старик был признан лидером пиратов Ямайки.}
-I feel like a famous mercenary. How about something like Johan Elting?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга?}
-I feel like a famous mercenary. How about something like Johan Elting? But not too conspicuous.{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга? Но не слишком заметно.}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом?}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and unadorned steel breastplate?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и неукрашенным стальным нагрудником?}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and engraved steel breastplate?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и гравированном стальным нагрудником?}
-I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and intricate golden breastplate?{Я чувствую себя известным наемником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и затейливым золотым нагрудником?}
+I feel like a famous mercenary. How about something like Johan Elting?{Я чувствую себя известным наёмником. Как насчёт кого-нибудь вроде Йогана Элтинга?}
+I feel like a famous mercenary. How about something like Johan Elting? But not too conspicuous.{Я чувствую себя известным наёмником. Как насчёт кого-нибудь вроде Йогана Элтинга? Но не слишком заметно.}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit?{Я чувствую себя известным наёмником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом?}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and unadorned steel breastplate?{Я чувствую себя известным наёмником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и неукрашенным стальным нагрудником?}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and engraved steel breastplate?{Я чувствую себя известным наёмником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и гравированном стальным нагрудником?}
+I feel like a famous mercenary. How about something like Johan Elting with his dark outfit and intricate golden breastplate?{Я чувствую себя известным наёмником. Как насчёт кого-нибудь вроде Йогана Элтинга с его темным нарядом и затейливым золотым нагрудником?}
 He is the officer of Johan Elting and an expert in weapons.{Он - офицер Йогана Элтинга и эксперт в оружии.}
 An engraved steel breastplate dominates this outfit that includes a combination of a yellow and red Spanish officers uniform!{Гравированный нагрудник преобладает в этом наряде, включающем в себя желто-красную форму испанского офицера!}
 A very wealthy-looking guy you could easily imagine to be a Vice-Admiral of the Spanish Navy.{Очень состоятельно выглядящий парень, вы легко могли бы представить его вице-адмиралом испанского флота.}
@@ -687,3 +687,8 @@ The son of a French nobleman, who became a well known captain after coming to th
 A Spanish Admiral bearing with pride the scars of many battles.{Испанский адмирал, с гордостью носящий шрамы от многих сражений.}
 A big African warrior with a face full of tattoos.{Крупный африканский воин с лицом, сплошь покрытым татуировками.}
 Purple is the theme of this outfit, with various shades on the shirt, vest and skirt.{Фиолетовый - тема этого наряда, женский жилет с рубашкой различных оттенков и юбка.}
+Purpure's purple pirate clothes.{Фиолетовая пиратская одежда Пурпур.}
+Open striped shirt, with a sash-belt. And let's have a nice fish tattoo!{Открытая рубашка в полоску с поясом-кушаком, а также красивая татуировка в виде рыбы!}
+Give me something with red trousers and vest, in the Russian style. But don't forget the razor!{Дайте мне что-нибудь с красными брюками и жилетом в русском стиле. Но не забудьте бритву!}
+There’s three things you don’t bring up to Bowyer. Don’t ask why she hasn’t got new pants. Don’t ask why her jacket is so short. Especially don’t ask why she named her gun Missy.{Есть три вещи, о которых нельзя спрашивать Бауэр. Не спрашивайте, почему у неё нет новых брюк. Не спрашивайте, почему у неё такая короткая рубашка. Особенно не спрашивайте, почему она назвала свой пистолет 'Мисси'.}
+Gillian Speedy, captain of a Speedy class brig. But she'll need to earn it - speedily!{Джиллиан Стремительная, капитан быстрого класса брига. Но ей нужно заслужить его - и как можно скорее!}

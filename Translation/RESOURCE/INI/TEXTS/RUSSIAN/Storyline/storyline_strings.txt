@@ -275,6 +275,7 @@ Charles{Чарльз}
 Ardent{Ардент}
 The Caribbean in the Golden Age of Piracy offers many opportunities for those willing to seize them. As a pirate, seizing things is your business!{Карибский бассейн в золотой век пиратства предлагает множество возможностей тем, кто готов их взять. Как пират - Вы умеете брать что-либо гораздо лучше других!}
 Fortune{Удача}
+Siroco{Сироко}
 
 Helen{Хелен}
 
@@ -356,6 +357,7 @@ Bartolomeu{Бартоломью}
 o_Portugues{Португалец}
 
 Santiago{Сантьяго}
+La Chanceuse{Счастливица}
 
 Franзois{Франсуа}
 de_Hadoque{Де Хадок}
@@ -581,9 +583,21 @@ Cursed Vengeance{Одержимый Местью}
 Go on an adventure of treasure and betrayal, bloodshed and vengeance. A time when the pirate had the upper hand and got the girl, the treasure and conquered his enemies. What you may think about a pirate's life will be challenged to the extreme as they live, love, and die as only a pirate can! Based on the novel by Brent Jackson.{Отправляйтесь в приключение с сокровищами и предательством, кровопролитием и местью. Время, когда пират одерживал верх, завоевывал девушку, сокровища и побеждал своих врагов. То, что вы думаете о жизни пирата, будет поставлено под сомнение, ведь они живут, любят и умирают так, как может жить только пират! По роману Брента Джексона.}
 
 Purpure{Пурпур}
+Longstride{Лонгстрайд}
 Squire of the Sea{Морское Приключение}
 Once, there was a little girl unwanted by her family. Her beloved stepuncle put her out to sea. But the sea took her away to another world.{Однажды жила-была маленькая девочка, нежеланная её семье. Любимый сводный дядя отправил её в море в надежде, что она найдёт лучшую жизнь. Но море унесло её в неизведанный мир.}
 Carnation{Гвоздика}
+
+Lizzie{Лиззи}
+Whitebrush{Уайтбраш}
+
+Lucretia{Лукреция}
+Bowyer{Бауэр}
+Myrinna{Миринна}
+
+Speedy{Стремительная}
+
+Clarke{Клэрк}
 
 Francis{Фрэнсис}
 Drake{Дрейк}
@@ -917,6 +931,11 @@ Zeven Provincien{Семь Провинций}
 Zwarte Beer{Чёрный Медведь}
 Йlan{Импульс}
 Йtoile{Этуаль}
+Mytilene{Митилин}
+Cyme{Сайм}
+Myrinna{Миринна}
+Otrera{Отрера}
+Hera{Гера}
 
 {=====| CommonQuest.c |=====}
 Margaret Hatcher{Маргарет Тэтчер}

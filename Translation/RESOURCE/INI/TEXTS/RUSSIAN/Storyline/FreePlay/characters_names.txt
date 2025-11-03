@@ -54,6 +54,10 @@ Weatherby{Уэзерби}
 Swann{Суонн}
 Christopher{Кристофер}
 Silehard{Сайлхард}
+Wilda{Вильда}
+Wright{Райт}
+Margaret{Маргарет}
+Jocasta{Джокаста}
 
 {=====| Officers.c |=====}
 William{Уильям}
@@ -121,5 +125,7 @@ Abel{Абель}
 Barco{Барко}
 Renouart{Ренуарт}
 Larrouse{Ларроуз}
+Lucretia{Лукреция}
+Bowyer{Бауэр}
 
 {=====| 63 characters |=====}

@@ -1335,6 +1335,8 @@ Osborne{Осборн}
 Edwards{Эдвардс}
 Mowett{Моуэтт}
 Orswood{Орсвуд}
+Erica{Эрика}
+Renshaw{Реншоу}
 
 
 {=====| 1368 characters |=====}
