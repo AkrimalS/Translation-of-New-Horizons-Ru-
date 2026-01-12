@@ -36,6 +36,9 @@ Min crew reached{Свободных матросов не осталось!}
 This officer has too low Leadership and Sailing skills to command this ship. Assign anyway?{У этого офицера слишком низкие навыки Авторитет и Навигация, чтобы командовать этим кораблем. Всё равно хотите назначить?}
 You can't command a fleet until reaching level{Вы не можете командовать флотом, пока не достигнете уровня}
 Leadership. Assign anyway?{Лидерства. Всё равно назначить?}
+Capturing this ship is an act of piracy. Assign a prize captain anyway?{Захват этого корабля является актом пиратства. Всё равно назначить капитана?}
+Capturing this ship is an act of piracy. Take it anyway?{Захват этого корабля является актом пиратства. Всё равно хотите захватить его?}
+Looting this ship is an act of piracy. Enter the hold anyway?{Разграбление этого корабля является актом пиратства. Всё равно проникнуть в трюм?}
 's current colours{сейчас под флагом}
 Hoist flag{Поднять Флаг}
 is known as{известен как}
