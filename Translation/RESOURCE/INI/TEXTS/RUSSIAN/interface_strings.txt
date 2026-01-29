@@ -1185,8 +1185,8 @@ Mine commander's house{Дом Командира Шахты}
 Office{Кабинет}
 Naval Store{Военно-Морской Магазин}
 Naval Shipyard{Военно-Морская Верфь}
-British Naval Headquarters{Британский Военно-Морской Штаб}
-British Naval Headquarters Study{Кабинет Британского Военно-Морского Штаба}
+#stown_name# Naval Headquarters{#stown_name# Военно-Морской Штаб}
+#stown_name# Naval Headquarters Study{#stown_name# Кабинет Военно-Морского Штаба}
 #stown_name# Plantation{Плантация #stown_name#}
 Plantation{Плантация}
 Fire Ship deck{Палуба Горящего Корабля}

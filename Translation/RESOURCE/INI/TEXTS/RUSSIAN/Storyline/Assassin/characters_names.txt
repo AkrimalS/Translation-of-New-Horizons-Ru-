@@ -66,7 +66,7 @@ Amerigo{Америго}
 Vieira{Виейра}
 Nicholas{Николас}
 Butcher{Бучер}
-Roche{Рок}
+Roche2{Рок}
 Brasiliano{Бразилец}
 Renouart{Ренуарт}
 Baumont{Баумонт}
