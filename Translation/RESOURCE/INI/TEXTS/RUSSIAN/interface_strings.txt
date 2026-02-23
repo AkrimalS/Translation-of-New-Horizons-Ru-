@@ -2603,3 +2603,5 @@ Gold removed -10000{Вы отдали 10.000 золотых монет!}
 : Escort Destination{: Пункт Назначения Сопровождения}
 : Cargo Destination{: Пункт Назначения Груза}
 : Hidden Treasure{: Спрятанное Сокровище}
+
+I'll try the starboard side instead.{Вместо этого я попробую зайти с правого борта.}
