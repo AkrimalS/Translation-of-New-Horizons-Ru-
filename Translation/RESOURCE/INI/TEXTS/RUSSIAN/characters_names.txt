@@ -1232,7 +1232,7 @@ Fremont{Фремон}
 Tientje{Тинти}
 Durfee{Дарфи}
 Charles{Чарльз}
-Windem{Уиндэм}
+Windem{Уиндем}
 Simona{Симона}
 Tolman{Толмэн}
 Voyant{Воянт}
@@ -1286,8 +1286,8 @@ Valderrama{Вальдеррама}
 Christine{Кристина}
 Hoppe{Хоппе}
 Admiral{Адмирал}
-Coastbrother{Берегового Братства}
-Leading{Лидер}
+Coastbrother{Береговой Брат}
+Leading{Главный}
 
 {=====| Usurers.c |=====}
 Robyn{Робин}

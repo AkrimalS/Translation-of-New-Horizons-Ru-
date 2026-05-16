@@ -59,7 +59,7 @@ Dampier{Дампир}
 Steven{Стивен}
 Courtney{Кортни}
 Charles{Чарльз}
-Pope{Падре}
+Pope{Поуп}
 Thomas{Томас}
 Dover{Довер}
 Robert{Роберт}
@@ -71,25 +71,25 @@ Rogers' Crew{Офицер Роджерса}
 Former Crew{Бывший Офицер}
 Rogers' Former Crew{Бывший Офицер Роджерса}
 Vane{Вэйн}
-Bellamy{Беллэми}
-Paul{Пол}
-Williams{Вильямс}
+Bellamy{Беллами}
+Paul{Полсгрейв}
+Williams{Уильямс}
 Yeats{Йейтс}
 Howell{Хауэлл}
 Davis{Дэвис}
 Cocklyn{Коклин}
-Anstis{Анстис}
+Anstis{Энстис}
 Olivier{Оливье}
 La Bouche{Ла Буш}
 Low{Лау}
 Phineas{Финеас}
 Bunce{Бёнс}
-Gow{Гау}
+Gow{Гоу}
 Charles Vane's{Чарльз Вэйн}
 Charles Vane's Crew{Офицер Чарльза Вэйна}
 Walter{Уолтер}
 Kennedy{Кеннеди}
-England{Ингленд}
+England{Инглэнд}
 Bartholomew{Бартоломью}
 Roberts{Робертс}
 George{Джордж}
@@ -97,10 +97,10 @@ Lowther{Лаутер}
 Calico Jack{Калико Джек}
 Rackham{Рэкхем}
 Edmund{Эдмунд}
-Condent{Конде}
+Condent{Кондент}
 Christopher{Кристофер}
 Winter{Винтер}
-Auger{Уга}
+Auger{Огер}
 Taylor{Тэйлор}
 Francis{Фрэнсис}
 Spriggs{Сприггс}
@@ -110,21 +110,22 @@ Quelch{Квелч}
 Emanuel{Эмануэль}
 Wynn{Винн}
 Moody{Муди}
-Worley{Ворли}
-Jean Thomas{Жан Тома}
-Dulaien{Дюлон}
+Worley{Уорли}
+Jean Thomas{Жан Томас}
+Dulaien{Дулайен}
 Alexandre{Александр}
 Exquemelin{Эксквемелин}
 Rosabella{Розабелла}
 Issalini{Иссалини}
+Grandma Rogers{Бабушка Роджерса}
 Woodes{Вудс}
 Rogers{Роджерс}
 Grandma{Бабушка}
 Dave{Дэйв}
 Edna{Эдна}
 Alexander{Александр}
-Selkirk{Селкирк}
-Friday{Фрайдей}
+Selkirk{Селькирк}
+Friday{Пятница}
 Powdermonkey{Пороховая Обезьянка}
 Daniel{Даниель}
 De Foe{Дефо}
@@ -181,7 +182,7 @@ JRH{ЯРХ}
 Nils{Нильс}
 Holgersson{Хольгерссон}
 Wake{Вейк}
-Maze{Мэйз}
+Maze{Мейз}
 Basil{Бэзил}
 Ringrose{Рингроуз}
 Prosper{Проспер}
@@ -193,18 +194,18 @@ Jong{Джонг}
 Pierre{Пьер}
 le Grand{Легран}
 don Carlos Berto{Дон Карлос Берто}
-Agnesi{Агнесса}
-Long{Долговязый}
-Tall Sally{Дылда Салли}
+Agnesi{Аньези}
+Long{Долговязая}
+Tall Sally{Салли}
 Moore{Мур}
-Ireland{Ирландия}
+Ireland{Айрленд}
 Sergej{Сергей}
 Prokofiev{Прокофьев}
 Barbecue{Барбекю}
 Pиre{Падре}
 Labat{Лабат}
-Laurens{Лоуренс}
-de Graaf{Де Грааф}
+Laurens{Лоренс}
+de Graaf{Де Графф}
 Piet{Пит}
 Heyn{Хейн}
 Vasco da{Васко Да}

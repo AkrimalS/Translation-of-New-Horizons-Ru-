@@ -76,7 +76,7 @@ Caroline{Каролина}
 K{К}
 Friday{Пятница}
 Alexander{Александр}
-Selkirk{Селкирк}
+Selkirk{Селькирк}
 Grandma{Бабушка}
 Rogers{Роджерс}
 Dave{Дэйв}
