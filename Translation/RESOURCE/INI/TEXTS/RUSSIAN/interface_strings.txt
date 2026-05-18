@@ -1180,6 +1180,7 @@ Arsenal.{Казармы}
 #stown_name# Naval HQ{#stown_name# Военно-Морской Штаб}
 Officer Commanding #stown_name# Naval HQ{Офицер, командующий военно-морским штабом в городе #stown_name#}
 Mrs. Mason's House{Дом Миссис Мейсон}
+Mrs. Mason's bedroom{Спальня Миссис Мейсон}
 Yedam Kinne's house{Дом Едама Кинна}
 Mine commander's house{Дом Командира Шахты}
 Office{Кабинет}
@@ -2264,8 +2265,8 @@ Hmm, I could place some goods on the elevator.{Хм, я могу что-то поместить на по
 No, the elevator isn't heavy enough.{Нет, подъёмник недостаточно тяжёлый.}
 Now let's fill the barrel up.{Теперь давайте наполним бочку.}
 
-I don't need to carry these newspapers around.{Мне не нужно таскать вокруг эти газеты.}
-Better study them or return them to the counter.{Лучше изучите их или верните к прилавку.}
+I don't need to carry these newspapers around.{Мне не нужно таскать с собой эти заметки.}
+Better study them or return them to the counter.{Лучше изучить их и вернуть обратно.}
 I don't need more wood at the moment.{Мне сейчас не нужно больше древесины.}
 No, I havn't processed the content yet.{Нет, я ещё не обработал содержимое.}
 I can grind stones here.{Я могу размолоть камни здесь.}
