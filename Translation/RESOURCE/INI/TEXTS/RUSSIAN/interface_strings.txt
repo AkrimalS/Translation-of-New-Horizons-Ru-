@@ -1486,7 +1486,7 @@ Kidnappers' Hideout, 2nd floor.{Убежище похитителей, 2-й этаж}
 House of Geffrey Bampfylde.{Дом Джеффри Бэмпфилда}
 Room in Marigot tavern.{Комната в Таверне Мариго}
 Mine.{Шахта}
-Sandy Point.{Сенди Поинт}
+Sandy Point.{Сэнди-Поинт}
 White Reefs.{Белые Рифы}
 Wreckage shore.{Берег Крушений}
 Dolphin Sands.{Берег Дельфинов}
@@ -2014,7 +2014,7 @@ There is not enough wood left!{Осталось слишком мало древесины!}
 No, the water isn't warm enough.{Нет, вода недостаточно теплая.}
 No, I'll burn the parchment to ashes.{Нет, я сожгу пергамент дотла.}
 I need something to carry the wood in.{Мне нужно что-то, в чем нести древесину.}
-The sack is full - let's go home!{Мешок полон - давайте пойдем домой!}
+The sack is full - let's go home!{Мешок полон - давайте пойдём домой!}
 I've got a collection of shells - let's go home!{Коллекция ракушек у меня - давайте пойдём домой!}
 That really helped - now let's see if there are more secrets to be found on the parchment.{Это действительно помогло - теперь, давайте посмотрим, есть ли больше тайн, которые будут найдены на пергаменте.}
 So that's how it happened! The heat revealed a death's-head on the other side of the parchment!{Вот как это произошло! Высокая температура выявила череп на другой стороне пергамента!}
@@ -2075,7 +2075,7 @@ I could need a Saw here.{Здесь мне бы не помешала пила.}
 I have already placed wood in here.{Тут уже есть дрова.}
 The fire has almost gone out - I need more wood.{Огонь почти потух - мне нужно больше дров.}
 I have already got some wood.{У меня уже есть немного дров.}
-This will take time - I'll do something else meanwhile.{Это займет время - я сделаю что-то ещё между тем.}
+This will take time - I'll do something else meanwhile.{Это займёт время - я сделаю что-то ещё между тем.}
 I need a Ladle to scoop the Charcoal from the fireplace.{Мне нужен черпак, чтобы собрать уголь из камина.}
 I need a Jar to collect the Charcoal.{Мне нужна банка, чтобы собрать Древесный уголь.}
 The Sack is only half filled with Nitre.{Мешок наполнен селитрой лишь наполовину.}
@@ -2218,8 +2218,8 @@ No, it wasn't that easy!{Нет, это было не так просто!}
 Not the right time to leave.{Неподходящее время, для того чтобы уйти.}
 Strange, I wonder why that crate looks different from the others.{Странно, почему этот ящик отличается от других.}
 
-West crescent{Западный Полумесяц}
-East crescent{Восточный Полумесяц}
+West crescent{Западная Дуга}
+East crescent{Восточная Дуга}
 West wing{Западное Крыло}
 East wing{Восточное Крыло}
 Rotunda upper levels{Ротонда: Верхние Уровни}
@@ -2235,7 +2235,7 @@ Cellarium{Кладовая}
 Chapter-house{Здание Капитула}
 Scriptorium{Помещение для Переписывания Рукописей}
 Cloister{Монастырь}
-cloister inside{Внутри Монастыря}
+cloister inside{Монастырь}
 New Cloister Garden{Новый Сад Монастыря}
 Cloister yard{Двор Монастыря}
 cloister exit{Выход из Монастыря}
@@ -2244,7 +2244,7 @@ Infirmary{Лазарет}
 Lavatorium{Умывальня}
 Graveyard{Кладбище}
 Crypt{Склеп}
-Cell{Камера}
+Cell{Темница}
 Library{Библиотека}
 Fort Waxholm{Форт Ваксхольм}
 Adventure Galley{Приключенческая Галера}
@@ -2255,7 +2255,7 @@ C. Auguste Dupin - Private Investigator{К. Огюст Дюпен - Частный Сыщик}
 Dupin's room{Комната Дюпена}
 
 Something under that straw?{Что под этой соломой?}
-No, I'll only cut myself on those shards.{Нет, я только порежусь об эти черепки.}
+No, I'll only cut myself on those shards.{Нет, я только порежусь об эти кусочки стекла.}
 The bell is too heavy - can't move it. I need something heavy to hit it with.{Колокол слишком тяжёлый - не могу сдвинуть его. Мне нужно что-то тяжёлое.}
 Poor nun!{Бедная монахиня!}
 
@@ -2270,16 +2270,16 @@ Better study them or return them to the counter.{Лучше изучить их и вернуть обра
 I don't need more wood at the moment.{Мне сейчас не нужно больше древесины.}
 No, I havn't processed the content yet.{Нет, я ещё не обработал содержимое.}
 I can grind stones here.{Я могу размолоть камни здесь.}
-I think I'll use the Big Bottle for Mixtures instead.{Я думаю, что воспользуюсь Большой Бутылочкой для Смесей.}
+I think I'll use the Big Bottle for Mixtures instead.{Я думаю, что нужно воспользоваться большой бутылкой для смесей.}
 I think I'll use the Small Bottle for Mixtures instead.{Я думаю, что воспользуюсь Маленькой Бутылочкой для Смесей.}
-I think that's the right mixture.{Я думаю, что это правильная Смесь.}
-A Small Bottle will do here.{Здесь поможет Маленькая Бутылочка.}
+I think that's the right mixture.{Я думаю, что это правильная смесь.}
+A Small Bottle will do here.{Здесь поможет маленькая пустая бутылка.}
 A clean piece of Cloth as a filter is needed here.{Здесь нужен чистый кусочек ткани в качестве фильтра.}
-Two Salt Jars are enough!{Двух Банок с Солью достаточно!}
-One Filter is enough!{Одного Фильтра достаточно!}
-One Calcium Sack is enough!{Одного мешка Кальция достаточно!}
-Two Coal Jars are enough!{Двух Банок с Углем достаточно!}
-One Nitre Sack is enough!{Одного Мешка Селитры достаточно!}
+Two Salt Jars are enough!{Двух горшочков с солью будет достаточно!}
+One Filter is enough!{Одного фильтра достаточно!}
+One Calcium Sack is enough!{Одного мешочка карбоната кальция достаточно!}
+Two Coal Jars are enough!{Двух горшков с углём достаточно!}
+One Nitre Sack is enough!{Одного мешочка селитры достаточно!}
 One Limestone Basket is enough!{Одной Корзины Известняка достаточно!}
 One Camel Dung Bucket is enough!{Одного Ведра Лошадиного Навоза достаточно!}
 One Sulphur Basket is enough!{Одной Банки Серы достаточно!}
@@ -2301,7 +2301,7 @@ I need only half of that!{Мне нужна лишь половина этого!}
 Oh no, I forgot to use a clean filter and lost the mixture!{О нет, я забыл использовать Чистый Фильтр и утратил Смесь!}
 No,I have to apply the wax to the gases, not the other way around.{Нет, мне необходимо использовать Воск с Газами, а не наоборот.}
 That metal looks like Lead. Supposed to become Gold?{Этот металл похож на Свинец. Предположительно, он становится Золотом?}
-No, it looks more like unclean Silver. If all that could be Gold!{Нет, больше похоже на Неочищенное Серебро. Если бы это всё было Золотом!}
+No, it looks more like unclean Silver. If all that could be Gold!{Нет, это больше похоже на Неочищенное Серебро. Эх, если бы это всё было Золотом...}
 Just one drop...{Лишь одна капля...}
 I'll use more this time. Five drops perhaps.{На этот раз использую побольше. Вероятно, пять капель.}
 
@@ -2329,7 +2329,7 @@ Order of Malta{Мальтийский Орден}
 It's not time for any meal now.{Сейчас не время для еды.}
 Hey, it's occupied.{Эй, занято.}
 No, I'm only allowed to take books and documents.{Нет, мне разрешено брать только книги и документы.}
-I guess a lever should be placed here.{Полагаю, что рычаг нужно поместить здесь.}
+I guess a lever should be placed here.{Полагаю, что здесь нужно разместить рычаг.}
 I guess the other blade should be placed here.{Полагаю, что другой клинок нужно поместить здесь.}
 Something's missing here for sure.{Наверняка здесь чего-то не хватает.}
 It's something inside.{Там что-то внутри.}
@@ -2338,6 +2338,7 @@ Nueva Suecia upper town{Верхняя Новая Швеция}
 Nueva Suecia lower town{Нижняя Новая Швеция}
 Nueva Suecia inner town{Центр Новой Швеции}
 Nueva Suecia tailor's shop{Портной Новой Швеции}
+Nueva Suecia roofs{Крыши Новой Швеции}
 Storeroom textiles{Кладовая Портного}
 Tailor's room{Комната Портного}
 Stairs{Лестница}
@@ -2393,7 +2394,7 @@ Tower stairs{Лестница Башни}
 To the Dovecote{Голубятня}
 Tower passage{Проход в Башню}
 cloister passage{Проход в Монастырь}
-Abbey{Монастырь}
+Abbey{Аббатство}
 Bell tower{Колокольня}
 Refectory{Трапезная}
 Abbess{Настоятельница}
@@ -2421,9 +2422,9 @@ I have not looted Dampier!{Нужно обыскать Дампира!}
 That boat could be the way back to the Port.{Эта лодка поможет мне вернуться в порт.}
 The Gate is blocking the way out.{Ворота блокируют выход.}
 It's blunt. It's worthless!{Очень тупо. Ни за что!}
-There it is. The exit!{Вон он... Выход!}
+There it is. The exit!{Вот он... Выход!}
 Three officers with a total of 5 shares. Add to that the 29 shares for the sailors. But first I have to...{Три офицера с общим количеством 5 акций - (5/3 Доли каждый). Добавьте к этому 29 акций для моряков. Но сначала я должен...}
-Now let's see, the Sloop's guns are only 9-pounders but the Corvette could easily have 12-pounders.{Мда... У Шлюпа орудия только 9-фунтовые, а у Корвета запросто могут быть и 12-фунтовые.}
+Now let's see, the Sloop's guns are only 9-pounders but the Corvette could easily have 12-pounders.{Мда... У Шлюпа орудия только 9-фунтовые, а у Корвета запросто могут быть и 12-фунтовые...}
 So they may knock out our guns while we'll just hit the sea.{Так что они могут выбить наши орудия, прежде чем мы попадём в море.}
 But the worst scenario would be if they destroy the Sloop!{Но худший сценарий - это уничтожение Шлюпа!}
 Then we're stuck on this isolated shore...{Тогда мы застрянем на этом изолированном берегу...}
@@ -2435,19 +2436,19 @@ No, I'll save that to later{Нет, я оставлю это на потом}
 Oh yes, I have forgotten the Painting!{Ах да, я забыл о Картине!}
 Oh yes, I have forgotten the Book!{Ах да, я забыл эту Книгу!}
 I have to search for something to step on here.{Я должен поискать здесь что-нибудь, на что можно было бы наступить.}
-There's something I can use. A pitchfork.{Есть кое-что, что я могу использовать. Вилы.}
+There's something I can use. A pitchfork.{Есть кое-что, что я могу использовать. Вилы!}
 That hatch - could be the way to the Captain's cabin.{Люк сверху, возможно, он ведёт в Каюту Капитана.}
 I need a long tool to remove the pole.{Мне нужен длинный инструмент, чтобы убрать опору.}
-CALL MATES{ПОЗВАТЬ ПРИЯТЕЛЕЙ}
+CALL MATES{ПОЗВАТЬ КОМАНДУ}
 AWAY BOAT{ЛОДКА УПЛЫВАЕТ}
 No, I have no more business there.{Нет, мне там больше нечего делать.}
 Insert coin.{Вставьте монету}
 No, the cannon is stuck!{Нет, пушка застряла!}
 So he could read? Most about Alchemy!{Он умел читать? Так много книг об Алхимии!}
-No, the Gold Bars are too heavy - the crew will take them to the ship.{Нет, золотые слитки слишком тяжелые - команда доставит их на корабль.}
-No, the Gold Coins are too heavy - the crew will take them to the ship.{Нет, золотые монеты слишком тяжелые - команда доставит их на корабль.}
-No, the Silver Bars are too heavy - the crew will take them to the ship.{Нет, серебряные слитки слишком тяжелые - команда доставит их на корабль.}
-No, the Valuable Weapons are too heavy - the crew will take them to the ship.{Нет, ценное оружие слишком тяжелое - команда доставит его на корабль.}
+No, the Gold Bars are too heavy - the crew will take them to the ship.{Нет, золотые слитки слишком тяжёлые - команда доставит их на корабль.}
+No, the Gold Coins are too heavy - the crew will take them to the ship.{Нет, золотые монеты слишком тяжёлые - команда доставит их на корабль.}
+No, the Silver Bars are too heavy - the crew will take them to the ship.{Нет, серебряные слитки слишком тяжёлые - команда доставит их на корабль.}
+No, the Valuable Weapons are too heavy - the crew will take them to the ship.{Нет, ценное оружие слишком тяжёлое - команда доставит его на корабль.}
 No, it's not the time for that.{Нет, сейчас не время для этого.}
 I'll use more this time. Five drops maybe.{На этот раз я использую больше. Может быть, пять капель?}
 A small clock that's something.{Маленькие Часы - это нечто.}
@@ -2462,15 +2463,15 @@ SURGEON MAJOR{ГЛАВНЫЙ ХИРУРГ}
 SECOND SURGEON{ВТОРОЙ ХИРУРГ}
 GUNSMITH OR THIRD SURGEON{ОРУЖЕЙНИК ИЛИ ТРЕТИЙ ХИРУРГ}
 SURGEON'S AIDE{ПОМОЩНИК ХИРУРГА}
-I have got 1 Malta Document.{У меня есть 1 Мальтийское изделие.}
-I have got 2 Malta Documents.{У меня есть 2 Мальтийских изделий.}
-I have got 3 Malta Documents.{У меня есть 3 Мальтийских изделий.}
-I have got 4 Malta Documents.{У меня есть 4 Мальтийских изделий.}
-I have got 5 Malta Documents.{У меня есть 5 Мальтийских изделий.}
-I have got all 6 Malta Documents!{У меня есть все 6 Мальтийских изделий!}
+I have got 1 Malta Document.{У меня есть 1 Мальтийский предмет.}
+I have got 2 Malta Documents.{У меня есть 2 Мальтийских предмета.}
+I have got 3 Malta Documents.{У меня есть 3 Мальтийских предмета.}
+I have got 4 Malta Documents.{У меня есть 4 Мальтийских предмета.}
+I have got 5 Malta Documents.{У меня есть 5 Мальтийских предметов.}
+I have got all 6 Malta Documents!{У меня есть все 6 Мальтийских предметов!}
 The elevator is already up!{Подъёмник уже наверху!}
 The elevator is already down!{Подъёмник уже внизу!}
-No, the six Sacks with Gold Dust are too heavy - the crew will take them to the ship.{Нет, шесть мешков с сахаром слишком тяжелы - команда доставит их на корабль.}
+No, the six Sacks with Gold Dust are too heavy - the crew will take them to the ship.{Нет, шесть мешков с сахаром слишком тяжёлые - команда доставит их на корабль.}
 No, the Idol is too heavy - the crew will take it to the ship.{Нет, Идол слишком тяжёлый - команда отнесёт его на корабль.}
 R{R}
 T{T}

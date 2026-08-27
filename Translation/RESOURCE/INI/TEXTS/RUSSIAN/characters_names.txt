@@ -377,7 +377,7 @@ Alicia{Алисия}
 Banister{Баннистер}
 Geoffrey{Джеффри}
 Shuttle{Шаттл}
-Joseph{Жозеф}
+Joseph{Джозеф}
 Bigsby{Бигсби}
 Lucas{Лукас}
 Bird{Бёрд}
@@ -1122,7 +1122,7 @@ Edward{Эдвард}
 Pear{Пеар}
 Patric{Патрик}
 Cardone{Кардон}
-Louis{Льюис}
+Louis{Луи}
 Rouge{Руж}
 Rober{Робер}
 Artouis{Артуа}
@@ -1294,7 +1294,7 @@ Robyn{Робин}
 Corrick{Коррик}
 Archibald{Арчибальд}
 Gripsou{Грипсу}
-Stephen{Стефан}
+Stephen{Стивен}
 Bairnsfather{Бэрнсфатзер}
 Angus{Ангус}
 McDuck{МакДак}

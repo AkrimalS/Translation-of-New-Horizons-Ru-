@@ -81,7 +81,7 @@ Cocklyn{Коклин}
 Anstis{Энстис}
 Olivier{Оливье}
 La Bouche{Ла Буш}
-Low{Лау}
+Low{Лоу}
 Phineas{Финеас}
 Bunce{Бёнс}
 Gow{Гоу}
@@ -297,8 +297,8 @@ Clerk{Клерк}
 Surgeon{Хирург}
 Captain{Капитан}
 Chaplain{Капеллан}
-German{Немец}
-Knight{Найт}
+German{Тевтонский}
+Knight{Рыцарь}
 Margaret{Маргарет}
 Pough{Паф}
 Native{Абориген}
@@ -325,6 +325,7 @@ Schmidt{Шмидт}
 Tobias{Тобиас}
 Hдllgren{Хелльгрен}
 Axel{Аксель}
+von Fersen{Фон Ферзен}
 Joel{Джоэл}
 Bjцrk{Бьёрк}
 Hildingsson{Хилдингсон}
@@ -366,7 +367,7 @@ Aboensis{Абоенсис}
 Olof{Олоф}
 Tomasson{Томассон}
 Postman{Почтальон}
-Greensail{Гринсейл}
+Greensail{Гринсэйл}
 Joseph{Джозеф}
 Brooks Jr{Брукс Младший}
 James{Джеймс}
@@ -378,19 +379,19 @@ Nathaniel{Натаниэль}
 Jackson{Джексон}
 quartermaster Thomas{Казначей Томас}
 Miller{Миллер}
-White1{Белый}
-Gills{Гиллс}
+White1{Уайт}
+Gills{Гиллз}
 Gates{Гейтс}
-Brooks Sr{Брукс-Старший}
+Brooks Sr{Брукс Старший}
 Robbins{Роббинс}
 Curtice{Кёртис}
-Husk{Хуск}
+Husk{Хаск}
 boatswain Garrat{Боцман Гаррэт}
 Gibbens{Гиббенс}
 carpenter Owen{Плотник Оуэн}
 Stephen{Стивен}
-Stiles{Стайлс}
-Salter{Сэлтер}
+Stiles{Стайлз}
+Salter{Солтер}
 Carnes{Карнес}
 Boardman Hawes{Бордман Хейз}
 Major Stede{Майор Стид}
@@ -414,6 +415,7 @@ Servant{Слуга}
 Governor Charles{Губернатор Чарльз}
 Eden{Иден}
 Secretary Tobias{Секретарь Тобиас}
+Secretary Tobias Knight{Секретарь Тобиас Найт}
 Beggar{Нищий}
 Pilot{Лоцман}
 Merchant{Торговец}
@@ -447,5 +449,6 @@ Pjotr{Пётр}
 Kropotkin{Кропоткин}
 Swift{Свифт}
 Convict{Осуждённый}
+Sailmaker{Парусный Мастер}
 
 {=====| 570 characters |=====}
